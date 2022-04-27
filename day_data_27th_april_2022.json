@@ -2552,5 +2552,1069 @@
         "id": "rzXNsX4Cxf",
         "created_at": "2022-04-27T10:57:35.059000+05:30",
         "updated_at": "2022-04-27T10:57:35.073000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "ONCE BOOK 65 % PROFIT IN JAI CORP / RIIL.   KEEP TRAILING REMAINING QTY ...",
+        "text_message_id": 35114,
+        "timestamp": "2022-04-27 05:36:26+00:00",
+        "id": "TYlrYQ8eNg",
+        "created_at": "2022-04-27T11:06:33.658000+05:30",
+        "updated_at": "2022-04-27T11:06:33.671000+05:30"
+    },
+    {
+        "channel_id": 1470229714,
+        "msg_author": "Banknifty_specials",
+        "msg_author_id": 1470229714,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 9931,
+        "timestamp": "2022-04-27 05:43:27+00:00",
+        "id": "lIMhoYtuhn",
+        "created_at": "2022-04-27T11:13:35.447000+05:30",
+        "updated_at": "2022-04-27T11:13:35.460000+05:30"
+    },
+    {
+        "channel_id": 1303616692,
+        "msg_author": "Geeksofnifty",
+        "msg_author_id": 1303616692,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "HINDALCO 22 TO 28++\nTGT 1 & 2 DONE HERE \ud83d\udca5",
+        "text_message_id": 22267,
+        "timestamp": "2022-04-27 05:43:11+00:00",
+        "id": "JevbNwvlkn",
+        "created_at": "2022-04-27T11:13:35.464000+05:30",
+        "updated_at": "2022-04-27T11:13:35.477000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY RIIL ABOVE 1060, SSSL 1050, TGT BUYER CIRCUIT @ 1131\n\nBUY JAI CORP ABOVE 142/43, SL 140/41, TGT BUYER CIRCUIT @ 153",
+        "text_message_id": 35115,
+        "timestamp": "2022-04-27 05:43:27+00:00",
+        "id": "JWegoSCgwL",
+        "created_at": "2022-04-27T11:13:35.483000+05:30",
+        "updated_at": "2022-04-27T11:13:37.423000+05:30",
+        "cleaned_text_message": "buy riil above 1060, sssl 1050, tgt buyer circuit @ 1131 buy jai corp above 142/43, sl 140/41, tgt buyer circuit @ 153",
+        "output": [
+            {
+                "text_message": "buy riil above 1060, sssl 1050, tgt buyer circuit @ 1131 buy jai corp above 142/43, sl 140/41, tgt buyer circuit @ 153",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "RIIL",
+                "derivative": null,
+                "buy_price": [
+                    1060.0
+                ],
+                "stop_loss": [
+                    1050.0
+                ],
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:RIIL"
+            },
+            {
+                "text_message": "buy riil above 1060, sssl 1050, tgt buyer circuit @ 1131 buy jai corp above 142/43, sl 140/41, tgt buyer circuit @ 153",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "JAI CORP",
+                "derivative": null,
+                "buy_price": [
+                    1131.0
+                ],
+                "stop_loss": [
+                    140.0,
+                    141.0
+                ],
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:JAICORPLTD"
+            }
+        ]
+    },
+    {
+        "channel_id": 1195105033,
+        "msg_author": "nse_stocks_master",
+        "msg_author_id": 1195105033,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Intraday Buy call\n\nINDHOTEL 235-236\n\nTarget \ud83c\udfaf 240\n\nSl 232",
+        "text_message_id": 1606,
+        "timestamp": "2022-04-27 05:44:09+00:00",
+        "id": "oaisTK6AUp",
+        "created_at": "2022-04-27T11:14:35.472000+05:30",
+        "updated_at": "2022-04-27T11:14:35.884000+05:30",
+        "cleaned_text_message": "intraday buy call indhotel 235-236 target 240 sl 232",
+        "output": [
+            {
+                "text_message": "intraday buy call indhotel 235-236 target 240 sl 232",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "INDHOTEL",
+                "derivative": null,
+                "buy_price": [
+                    235.0,
+                    236.0
+                ],
+                "stop_loss": [
+                    232.0
+                ],
+                "target": [
+                    240.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:INDHOTEL"
+            }
+        ]
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "KEEP STRICT STRICT TRAILING SL IN  JAI CORP / RIIL.",
+        "text_message_id": 35116,
+        "timestamp": "2022-04-27 05:45:16+00:00",
+        "id": "e8WWZwEfVg",
+        "created_at": "2022-04-27T11:15:35.527000+05:30",
+        "updated_at": "2022-04-27T11:15:35.538000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": 8328,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c420a0>",
+        "status": "PROCESSING",
+        "text_message": "Adanipower have more potential above 300\ud83d\ude80",
+        "text_message_id": 8331,
+        "timestamp": "2022-04-27 05:47:18+00:00",
+        "id": "6mzV9hsZvi",
+        "created_at": "2022-04-27T11:17:35.594000+05:30",
+        "updated_at": "2022-04-27T11:17:35.606000+05:30"
+    },
+    {
+        "channel_id": 1485027884,
+        "msg_author": "trading_master_s",
+        "msg_author_id": 1485027884,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 7570,
+        "timestamp": "2022-04-27 05:48:21+00:00",
+        "id": "QIEfBkFCnz",
+        "created_at": "2022-04-27T11:18:35.629000+05:30",
+        "updated_at": "2022-04-27T11:18:35.644000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 54893,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c40d30>",
+        "status": "PROCESSING",
+        "text_message": "\u2747\ufe0fHEROMOTO made a high of 2433.95",
+        "text_message_id": 54910,
+        "timestamp": "2022-04-27 05:48:04+00:00",
+        "id": "azjV7y2itL",
+        "created_at": "2022-04-27T11:18:35.650000+05:30",
+        "updated_at": "2022-04-27T11:18:35.661000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "3rd Level Given to Premium Havells\n\nCost to cost exit or Rs.500 Profit \ud83d\udc9a",
+        "text_message_id": 8332,
+        "timestamp": "2022-04-27 05:49:25+00:00",
+        "id": "WGuLNLFIY3",
+        "created_at": "2022-04-27T11:19:35.651000+05:30",
+        "updated_at": "2022-04-27T11:19:35.666000+05:30"
+    },
+    {
+        "channel_id": 1485027884,
+        "msg_author": "trading_master_s",
+        "msg_author_id": 1485027884,
+        "replied_to": 7570,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5ce2940>",
+        "status": "PROCESSING",
+        "text_message": "MGL 430 Ce\n\n35 - 45 \ud83d\udc9a\ud83d\udc9a",
+        "text_message_id": 7571,
+        "timestamp": "2022-04-27 05:48:51+00:00",
+        "id": "Ll1QKHVsD6",
+        "created_at": "2022-04-27T11:19:35.674000+05:30",
+        "updated_at": "2022-04-27T11:19:35.687000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "STRICT BOOK PROFIT IN JAI CORP / RIIL",
+        "text_message_id": 35117,
+        "timestamp": "2022-04-27 05:50:14+00:00",
+        "id": "QJsSPDRosS",
+        "created_at": "2022-04-27T11:20:22.701000+05:30",
+        "updated_at": "2022-04-27T11:20:22.713000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "STRICTLY STRICTLY EXIT FROM RIIL / JAI CORP",
+        "text_message_id": 35118,
+        "timestamp": "2022-04-27 05:50:25+00:00",
+        "id": "tswrtUmhYA",
+        "created_at": "2022-04-27T11:20:27.010000+05:30",
+        "updated_at": "2022-04-27T11:20:27.022000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "AWL holding given to u all\n\n667 to 843\ud83d\ude80\ud83d\udd25\n\nRs.39,200 Profit running in just 200 Quantity \n\nWithin 9 days Only\ud83d\ude0d\nLive Demo... Check date, time and all..\ud83d\ude0d\n\nMy Advance level matter friends \ud83d\udcaa\ud83d\ude01",
+        "text_message_id": 8333,
+        "timestamp": "2022-04-27 05:52:46+00:00",
+        "id": "KXug6XUgAz",
+        "created_at": "2022-04-27T11:23:35.778000+05:30",
+        "updated_at": "2022-04-27T11:23:35.791000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "760++ Profit \ud83d\udc9a",
+        "text_message_id": 8334,
+        "timestamp": "2022-04-27 05:53:31+00:00",
+        "id": "1d3BfEUzE0",
+        "created_at": "2022-04-27T11:23:35.795000+05:30",
+        "updated_at": "2022-04-27T11:23:35.806000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "650 Profit\ud83d\udc9a",
+        "text_message_id": 8335,
+        "timestamp": "2022-04-27 05:53:50+00:00",
+        "id": "Otz7BgZx5x",
+        "created_at": "2022-04-27T11:24:35.846000+05:30",
+        "updated_at": "2022-04-27T11:24:35.860000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Rs.2500 Profit\ud83d\ude0d\ud83d\udc9a",
+        "text_message_id": 8336,
+        "timestamp": "2022-04-27 05:54:28+00:00",
+        "id": "KLeYWZpyys",
+        "created_at": "2022-04-27T11:24:35.866000+05:30",
+        "updated_at": "2022-04-27T11:24:35.879000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "2600++ Profit \ud83d\udc9a",
+        "text_message_id": 8337,
+        "timestamp": "2022-04-27 05:54:53+00:00",
+        "id": "wt6v7zaWXE",
+        "created_at": "2022-04-27T11:25:35.873000+05:30",
+        "updated_at": "2022-04-27T11:25:35.887000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Rs.6100++ Profit in single call\ud83d\udc9a\ud83d\ude0d",
+        "text_message_id": 8338,
+        "timestamp": "2022-04-27 05:55:28+00:00",
+        "id": "puqgLHO1J7",
+        "created_at": "2022-04-27T11:25:35.891000+05:30",
+        "updated_at": "2022-04-27T11:25:35.904000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "RIIL 967 TO 1065 ! R-R 1:10, TIME 24 MINUTES !!\n\n\ud83c\udf39Hit the IRON when it's hot\ud83c\udf39",
+        "text_message_id": 35119,
+        "timestamp": "2022-04-27 05:55:44+00:00",
+        "id": "DXeW28uV8h",
+        "created_at": "2022-04-27T11:26:05.700000+05:30",
+        "updated_at": "2022-04-27T11:26:06.236000+05:30",
+        "cleaned_text_message": "riil 967 to 1065 r-r 1 10, time 24 minutes hit the iron when it's hot",
+        "output": [
+            {
+                "text_message": "riil 967 to 1065 r-r 1 10, time 24 minutes hit the iron when it's hot",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "RIIL",
+                "derivative": null,
+                "buy_price": [
+                    "967",
+                    "1065"
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:RIIL"
+            }
+        ]
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Rs.6500++ Profit in single calls\ud83d\udc9a\ud83d\ude0d\n\nJust within 5 mins\ud83d\udc9a\n\nThis is dhamaka of my Jackpot calls\ud83d\ude80\ud83d\ude80\ud83d\ude01\ud83d\ude01",
+        "text_message_id": 8339,
+        "timestamp": "2022-04-27 05:56:15+00:00",
+        "id": "jQtusyfZGJ",
+        "created_at": "2022-04-27T11:26:35.953000+05:30",
+        "updated_at": "2022-04-27T11:26:35.965000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "3200++ Profit \ud83d\udc9a",
+        "text_message_id": 8340,
+        "timestamp": "2022-04-27 05:56:52+00:00",
+        "id": "iJ1wFNabY7",
+        "created_at": "2022-04-27T11:27:05.714000+05:30",
+        "updated_at": "2022-04-27T11:27:05.728000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "JAI CORP 129 TO 142+ ! R-R  1;10,  TIME 24 MINUTES !!\n\n\ud83c\udf39 Hit the IRON when it's hot\ud83c\udf39",
+        "text_message_id": 35120,
+        "timestamp": "2022-04-27 05:56:39+00:00",
+        "id": "LQLtwYGOyR",
+        "created_at": "2022-04-27T11:27:05.735000+05:30",
+        "updated_at": "2022-04-27T11:27:06.143000+05:30",
+        "cleaned_text_message": "jai corp 129 to 142 r-r 1;10, time 24 minutes hit the iron when it's hot",
+        "output": [
+            {
+                "text_message": "jai corp 129 to 142 r-r 1;10, time 24 minutes hit the iron when it's hot",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "JAI CORP",
+                "derivative": null,
+                "buy_price": [
+                    129.0,
+                    142.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:JAICORPLTD"
+            }
+        ]
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "And here is Jackpot Holding profit Running\ud83d\udc9a\ud83d\ude0d\n\nRs.28000++ Gain\ud83d\udc9a\ud83d\ude0d",
+        "text_message_id": 8341,
+        "timestamp": "2022-04-27 05:57:42+00:00",
+        "id": "Bg5bn6ZHZW",
+        "created_at": "2022-04-27T11:28:35.971000+05:30",
+        "updated_at": "2022-04-27T11:28:35.983000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udccaDURING TODAY'S LIVE TRADING SESSION- WE DISCUSSED ABOUT POTENTIAL BREAKOUT IN QUESS CORP ABOVE 700 PRICE LEVEL FOR THOSE WHOWANTED TO TRADE THIS STOCK IN INTRADAY\n\n\ud83d\udccaLOOK AT BEAUTIFUL BLAST FROM EXACTLY THE SAME LEVEL.\n\n\ud83d\udccaPOTETNIAL 20 POINTS DONE IN FEW MINUTES\ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "text_message_id": 54911,
+        "timestamp": "2022-04-27 05:59:25+00:00",
+        "id": "MQW3vMkYr0",
+        "created_at": "2022-04-27T11:29:36.042000+05:30",
+        "updated_at": "2022-04-27T11:29:36.054000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Just see the feedback Rs.3000++ Profit in my call Adaniports \ud83d\ude80\ud83d\ude0d",
+        "text_message_id": 8342,
+        "timestamp": "2022-04-27 05:59:43+00:00",
+        "id": "0LQpY3ArSx",
+        "created_at": "2022-04-27T11:30:20.735000+05:30",
+        "updated_at": "2022-04-27T11:30:20.749000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY HDFCLIFE 550CE MAY @14.50-15 TGT 18-20-25\nSL 12.50\nRISK 2200\nHOLD FOR 1 WEEK",
+        "text_message_id": 208405,
+        "timestamp": "2022-04-27 06:00:25+00:00",
+        "id": "paODVBy0GB",
+        "created_at": "2022-04-27T11:30:36.060000+05:30",
+        "updated_at": "2022-04-27T11:30:36.783000+05:30",
+        "cleaned_text_message": "buy hdfclife 550ce may @14.50-15 tgt 18-20-25 sl 12.50 risk 2200 hold for 1 week",
+        "output": [
+            {
+                "text_message": "buy hdfclife 550ce may @14.50-15 tgt 18-20-25 sl 12.50 risk 2200 hold for 1 week",
+                "call_type": "BUY",
+                "strike_price": 550,
+                "instrument": "HDFCLIFE 550CE MAY",
+                "derivative": "CALL",
+                "buy_price": [
+                    14.5,
+                    15.0
+                ],
+                "stop_loss": [
+                    12.5
+                ],
+                "target": [
+                    18.0,
+                    20.0,
+                    25.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:HDFCLIFE"
+            }
+        ]
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30479,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c6aa00>",
+        "status": "PROCESSING",
+        "text_message": "500 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30481,
+        "timestamp": "2022-04-27 06:00:31+00:00",
+        "id": "FFFFqgDFNE",
+        "created_at": "2022-04-27T11:30:36.085000+05:30",
+        "updated_at": "2022-04-27T11:30:36.786000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30479,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c73550>",
+        "status": "PROCESSING",
+        "text_message": "520 \u2705\u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30482,
+        "timestamp": "2022-04-27 06:00:37+00:00",
+        "id": "c4KJk06ys7",
+        "created_at": "2022-04-27T11:31:05.827000+05:30",
+        "updated_at": "2022-04-27T11:31:05.842000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30479,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c731f0>",
+        "status": "PROCESSING",
+        "text_message": "540 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30483,
+        "timestamp": "2022-04-27 06:00:42+00:00",
+        "id": "b0ww05t3on",
+        "created_at": "2022-04-27T11:31:05.844000+05:30",
+        "updated_at": "2022-04-27T11:31:05.858000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30479,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cf87c0>",
+        "status": "PROCESSING",
+        "text_message": "560 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30484,
+        "timestamp": "2022-04-27 06:00:48+00:00",
+        "id": "MpLEFQcWGo",
+        "created_at": "2022-04-27T11:31:05.862000+05:30",
+        "updated_at": "2022-04-27T11:31:05.876000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30479,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5ceb9d0>",
+        "status": "PROCESSING",
+        "text_message": "580 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30485,
+        "timestamp": "2022-04-27 06:00:56+00:00",
+        "id": "jWUWYdjmxO",
+        "created_at": "2022-04-27T11:31:05.880000+05:30",
+        "updated_at": "2022-04-27T11:31:05.893000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30479,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5ceb640>",
+        "status": "PROCESSING",
+        "text_message": "600 \u2705\u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30486,
+        "timestamp": "2022-04-27 06:01:03+00:00",
+        "id": "JZSQA2cnB9",
+        "created_at": "2022-04-27T11:31:05.895000+05:30",
+        "updated_at": "2022-04-27T11:31:05.908000+05:30"
+    },
+    {
+        "channel_id": 1355795157,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 21164,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5ce2c10>",
+        "status": "PROCESSING",
+        "text_message": "TARGET 1 DONE. PLEASE BOOK PROFIT AND ENJOY YOUR DAY",
+        "text_message_id": 21165,
+        "timestamp": "2022-04-27 06:01:22+00:00",
+        "id": "l5fSvvRMId",
+        "created_at": "2022-04-27T11:31:31.446000+05:30",
+        "updated_at": "2022-04-27T11:31:31.460000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": 33366,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c88dc0>",
+        "status": "PROCESSING",
+        "text_message": "14\u2764\ufe0f\u2705",
+        "text_message_id": 33407,
+        "timestamp": "2022-04-27 06:01:16+00:00",
+        "id": "xaNFKJsLHZ",
+        "created_at": "2022-04-27T11:31:31.463000+05:30",
+        "updated_at": "2022-04-27T11:31:31.480000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Open Jackpot \ud83d\ude0e",
+        "text_message_id": 33408,
+        "timestamp": "2022-04-27 06:01:21+00:00",
+        "id": "C6AcW0ZKRi",
+        "created_at": "2022-04-27T11:31:31.484000+05:30",
+        "updated_at": "2022-04-27T11:31:31.498000+05:30"
+    },
+    {
+        "channel_id": 1195105033,
+        "msg_author": "nse_stocks_master",
+        "msg_author_id": 1195105033,
+        "replied_to": 1603,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c6b730>",
+        "status": "SUCCESS",
+        "text_message": "BANKNIFTY 36200 PE 250 to 330 \ud83c\udfaf\ud83d\ude80\ud83d\udd25",
+        "text_message_id": 1607,
+        "timestamp": "2022-04-27 06:01:35+00:00",
+        "id": "ekoTUOaYlq",
+        "created_at": "2022-04-27T11:31:36.063000+05:30",
+        "updated_at": "2022-04-27T11:31:56.272000+05:30",
+        "cleaned_text_message": "banknifty 36200 pe 250 to 330",
+        "output": [
+            {
+                "text_message": "banknifty 36200 pe 250 to 330",
+                "call_type": null,
+                "strike_price": 36200,
+                "instrument": "BANKNIFTY 36200 PE",
+                "derivative": "PUT",
+                "buy_price": [
+                    250.0,
+                    330.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Here is Premium members Rocking every made bumper profit\ud83d\udc9a\n\nThis is called Consistent Profitable Journey Ladies & Gentle Man\ud83d\udc9a\ud83e\udd1d\n\nWant to be a part of it ??\n\nContact soon\ud83d\udc49 @Ayaanforhelp",
+        "text_message_id": 8343,
+        "timestamp": "2022-04-27 06:01:42+00:00",
+        "id": "41BYYMr3WP",
+        "created_at": "2022-04-27T11:31:43.399000+05:30",
+        "updated_at": "2022-04-27T11:31:56.274000+05:30"
+    },
+    {
+        "channel_id": 1355795157,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 21164,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c61eb0>",
+        "status": "PROCESSING",
+        "text_message": "TARGET 2 DONE. PLEASE BOOK PROFIT AND ENJOY YOUR DAY",
+        "text_message_id": 21166,
+        "timestamp": "2022-04-27 06:02:12+00:00",
+        "id": "FiRiKGNzxf",
+        "created_at": "2022-04-27T11:32:36.082000+05:30",
+        "updated_at": "2022-04-27T11:32:36.094000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30479,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5ce2910>",
+        "status": "PROCESSING",
+        "text_message": "612 \u2705\u2705\u2705\u2705\u2705\u2705\n\n100 \ud83d\udcaf POINTS TRADE \ud83d\ude80",
+        "text_message_id": 30487,
+        "timestamp": "2022-04-27 06:02:35+00:00",
+        "id": "OhkEmdr80N",
+        "created_at": "2022-04-27T11:32:36.098000+05:30",
+        "updated_at": "2022-04-27T11:32:36.109000+05:30"
+    },
+    {
+        "channel_id": 1470229714,
+        "msg_author": "Banknifty_specials",
+        "msg_author_id": 1470229714,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "36200PE Buy Above @ 395\n\nSL : 350",
+        "text_message_id": 9932,
+        "timestamp": "2022-04-27 06:02:49+00:00",
+        "id": "7AZ4zKwdjM",
+        "created_at": "2022-04-27T11:33:36.114000+05:30",
+        "updated_at": "2022-04-27T11:33:36.822000+05:30",
+        "cleaned_text_message": "36200pe buy above @ 395 sl 350",
+        "output": [
+            {
+                "text_message": "36200pe buy above @ 395 sl 350",
+                "call_type": "BUY",
+                "strike_price": 36200,
+                "instrument": "36200PE",
+                "derivative": "PUT",
+                "buy_price": [
+                    395.0
+                ],
+                "stop_loss": [
+                    350.0
+                ],
+                "target": null,
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcab",
+        "text_message_id": 35121,
+        "timestamp": "2022-04-27 06:03:23+00:00",
+        "id": "RYIpCSJQWz",
+        "created_at": "2022-04-27T11:33:36.155000+05:30",
+        "updated_at": "2022-04-27T11:33:36.825000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "INTRA DAY BUY TV18 @ 75-76, SSSL 74, TGT OPEN...\n\nHOS : POSITIVE ANNOUNCEMENT BY WEEKEND IN TV18",
+        "text_message_id": 35122,
+        "timestamp": "2022-04-27 06:03:28+00:00",
+        "id": "UxUJYZdpS2",
+        "created_at": "2022-04-27T11:33:36.187000+05:30",
+        "updated_at": "2022-04-27T11:33:37.453000+05:30",
+        "cleaned_text_message": "intra day buy tv18 @ 75-76, sssl 74, tgt open... hos positive announcement by weekend in tv18",
+        "output": [
+            {
+                "text_message": "intra day buy tv18 @ 75-76, sssl 74, tgt open... hos positive announcement by weekend in tv18",
+                "call_type": "BUY",
+                "strike_price": 18,
+                "instrument": "TV18",
+                "derivative": null,
+                "buy_price": [
+                    75.0,
+                    76.0
+                ],
+                "stop_loss": [
+                    74.0
+                ],
+                "target": [
+                    "OPEN"
+                ],
+                "timeframe": null,
+                "stock": null
+            },
+            {
+                "text_message": "intra day buy tv18 @ 75-76, sssl 74, tgt open... hos positive announcement by weekend in tv18",
+                "call_type": "BUY",
+                "strike_price": 18,
+                "instrument": "TV18",
+                "derivative": null,
+                "buy_price": "CMP",
+                "stop_loss": "Personal Preference",
+                "target": "Personal Preference",
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83c\udd3f\ud83c\udd41\ud83c\udd34\ud83c\udd3c\ud83c\udd38\ud83c\udd44\ud83c\udd3c \ud83c\udd42\ud83c\udd34\ud83c\udd41\ud83c\udd45\ud83c\udd38\ud83c\udd32\ud83c\udd34\n\n\ud83d\udc49 15 DAYS        @ 300/-\n\ud83d\udc49 1  MONTH     @ 500/-\n\ud83d\udc49 2  MONTHS   @ 750/-\n\nPLEASE PAY SUBSCRIPTION & SEND US SCREENSHOT \ud83d\udc47\ud83d\udc47\ud83d\udc47\n\n\u2705 GOOGLE PAY\u2757\ud83d\udc49 9000490425\n\u2705 PAYTM\u2757 \ud83d\udc49 9000490425\n\u2705 PHONPE \u2757\ud83d\udc49 9000490425@ybl\n\nFOR MORE DETAILS\u2b07\ufe0f\u2b07\ufe0f\n\nhttps://wa.me/919000490425",
+        "text_message_id": 30488,
+        "timestamp": "2022-04-27 06:02:53+00:00",
+        "id": "HJQgKIod02",
+        "created_at": "2022-04-27T11:33:36.218000+05:30",
+        "updated_at": "2022-04-27T11:33:37.456000+05:30"
+    },
+    {
+        "channel_id": 1195105033,
+        "msg_author": "nse_stocks_master",
+        "msg_author_id": 1195105033,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "*Superb Duber Delivery Call.....*\n\ud83c\udf96\ud83c\udf96\ud83c\udf96\ud83c\udf96\ud83c\udf96\ud83c\udf96\ud83c\udf96\ud83c\udf96\ud83c\udf96\ud83c\udf96\n\n\ud83d\ude84 *Buy HCKKVENTURE (Bse 539224)*\n\nScript Code *HCKKVENTURE*\ud83d\udc4c\n\n\ud83c\udf96 Buy *HCKKVENTURE At Rs 38.10*  \ud83c\udf96\n\n*Per Day Upper Circuit  Till 75 Rs* \ud83d\udd31\n\nGo And *Buy In Bulk Atleast*\n*10000-20000 Share (Sure Shoot) Call*\n\nTarget :- \ud83c\udfaf \n\n*Buy And Get Atleast 65% Return In premium call*",
+        "text_message_id": 1608,
+        "timestamp": "2022-04-27 06:04:17+00:00",
+        "id": "McAGeXHAfN",
+        "created_at": "2022-04-27T11:34:22.942000+05:30",
+        "updated_at": "2022-04-27T11:34:22.954000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8226,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c6dd90>",
+        "status": "PROCESSING",
+        "text_message": "130+\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "text_message_id": 8243,
+        "timestamp": "2022-04-27 06:06:56+00:00",
+        "id": "7TScnfH6U8",
+        "created_at": "2022-04-27T11:37:36.316000+05:30",
+        "updated_at": "2022-04-27T11:37:36.328000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8226,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c6dac0>",
+        "status": "PROCESSING",
+        "text_message": "132++",
+        "text_message_id": 8244,
+        "timestamp": "2022-04-27 06:06:59+00:00",
+        "id": "p5E4qBhKTo",
+        "created_at": "2022-04-27T11:37:36.333000+05:30",
+        "updated_at": "2022-04-27T11:37:36.344000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 54912,
+        "timestamp": "2022-04-27 06:08:31+00:00",
+        "id": "AvxkG1NkIR",
+        "created_at": "2022-04-27T11:38:36.369000+05:30",
+        "updated_at": "2022-04-27T11:38:36.381000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcc8REGISTRATIONS FOR THE APRIL BATCH OF MASTER TRADER COURSE WILL BE CLOSED SHORTLY\n\n\u2705CONTACT STOCKPRO-TEAM NOW AND JOIN TODAY MASTER TRADER COURSE\n\n\ud83d\udccaCall StockPro-Team At +91 7447438877 / +91 9354510568\n\nWhatsapp: https://wa.me/917447438877",
+        "text_message_id": 54913,
+        "timestamp": "2022-04-27 06:08:32+00:00",
+        "id": "UNWIKXmIpl",
+        "created_at": "2022-04-27T11:38:36.385000+05:30",
+        "updated_at": "2022-04-27T11:38:36.395000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8226,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5d344c0>",
+        "status": "PROCESSING",
+        "text_message": "135+\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\ude0d",
+        "text_message_id": 8245,
+        "timestamp": "2022-04-27 06:09:45+00:00",
+        "id": "6bvPOH7bMv",
+        "created_at": "2022-04-27T11:40:18.297000+05:30",
+        "updated_at": "2022-04-27T11:40:18.311000+05:30"
+    },
+    {
+        "channel_id": 1470229714,
+        "msg_author": "Banknifty_specials",
+        "msg_author_id": 1470229714,
+        "replied_to": 9932,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c53880>",
+        "status": "PROCESSING",
+        "text_message": "395 To 417",
+        "text_message_id": 9933,
+        "timestamp": "2022-04-27 06:11:25+00:00",
+        "id": "M42wZlGHrF",
+        "created_at": "2022-04-27T11:41:30.042000+05:30",
+        "updated_at": "2022-04-27T11:41:30.057000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "NOW FRESH CALL IN CHANNEL AFTER 2:15 pm\n\nMEANWHILE WE'LL BE FLASHING CALL ON OUR REGISTERED CLIENTS TERMINAL / MOBILE APP / ODIN TERMINALS",
+        "text_message_id": 35123,
+        "timestamp": "2022-04-27 06:11:29+00:00",
+        "id": "cH0GODN3g1",
+        "created_at": "2022-04-27T11:41:30.061000+05:30",
+        "updated_at": "2022-04-27T11:41:30.077000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Bank Nifty recent fall mentioned before movement \ud83d\ude02\n\nJust check my advance level and timing \u270d\ufe0f\n\n36000 to 35900 in one go\ud83d\ude80\ud83d\ude80",
+        "text_message_id": 8344,
+        "timestamp": "2022-04-27 06:13:23+00:00",
+        "id": "bRgYS1aeQb",
+        "created_at": "2022-04-27T11:43:36.492000+05:30",
+        "updated_at": "2022-04-27T11:43:36.505000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8226,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c9bbb0>",
+        "status": "PROCESSING",
+        "text_message": "139++\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\ude0d\u2705",
+        "text_message_id": 8246,
+        "timestamp": "2022-04-27 06:16:18+00:00",
+        "id": "rKTZKwNm03",
+        "created_at": "2022-04-27T11:46:36.703000+05:30",
+        "updated_at": "2022-04-27T11:46:36.716000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udca5Flat 25% Discount Offer\ud83d\udca5\n\n\ud83c\udfafFee recovery on 1st day of trading\n\ud83c\udfafBanknifty/Nifty & Stock option\n\ud83c\udfafAll calls one by one \n\ud83c\udfaf3 to 5 calls Daily\n\ud83c\udfaf90% Accuracy \n\ud83c\udfafAdvance entry always\n\nDon't think about fees, it'll recover on 1st day of Trading\ud83c\udfafJust think about your consistent profitable journey\ud83d\udc9a\n\nJoin now\ud83d\udc49 @Ayaanforhelp",
+        "text_message_id": 8345,
+        "timestamp": "2022-04-27 06:18:05+00:00",
+        "id": "qoCQWudIh3",
+        "created_at": "2022-04-27T11:48:31.351000+05:30",
+        "updated_at": "2022-04-27T11:48:31.364000+05:30"
+    },
+    {
+        "channel_id": 1470229714,
+        "msg_author": "Banknifty_specials",
+        "msg_author_id": 1470229714,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 9934,
+        "timestamp": "2022-04-27 06:18:25+00:00",
+        "id": "Jew6FPxld2",
+        "created_at": "2022-04-27T11:48:31.373000+05:30",
+        "updated_at": "2022-04-27T11:48:31.386000+05:30"
+    },
+    {
+        "channel_id": 1470229714,
+        "msg_author": "Banknifty_specials",
+        "msg_author_id": 1470229714,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 9935,
+        "timestamp": "2022-04-27 06:18:25+00:00",
+        "id": "vU5koeOO1R",
+        "created_at": "2022-04-27T11:48:31.390000+05:30",
+        "updated_at": "2022-04-27T11:48:31.403000+05:30"
+    },
+    {
+        "channel_id": 1195105033,
+        "msg_author": "nse_stocks_master",
+        "msg_author_id": 1195105033,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "\ud83d\udd25 Jackpots Delivery buy Call\ud83d\ude80\n\nHCKKVENTURE 38.10\n\nTarget \ud83c\udfaf 50/65\n\nSl 35",
+        "text_message_id": 1609,
+        "timestamp": "2022-04-27 06:17:42+00:00",
+        "id": "ragLlU2b2B",
+        "created_at": "2022-04-27T11:48:31.408000+05:30",
+        "updated_at": "2022-04-27T11:48:32.225000+05:30",
+        "cleaned_text_message": "jackpots delivery buy call hckkventure 38.10 target 50/65 sl 35",
+        "output": [
+            {
+                "text_message": "jackpots delivery buy call hckkventure 38.10 target 50/65 sl 35",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "JACKPOTS",
+                "derivative": null,
+                "buy_price": [
+                    38.1
+                ],
+                "stop_loss": [
+                    35.0
+                ],
+                "target": [
+                    50.0,
+                    65.0
+                ],
+                "timeframe": null,
+                "stock": null
+            },
+            {
+                "text_message": "jackpots delivery buy call hckkventure 38.10 target 50/65 sl 35",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "HCKKVENTURE",
+                "derivative": null,
+                "buy_price": "CMP",
+                "stop_loss": "Personal Preference",
+                "target": "Personal Preference",
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8246,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c57700>",
+        "status": "PROCESSING",
+        "text_message": "4350/- on 3 lots\ud83d\udca3\ud83d\udca3\u2705",
+        "text_message_id": 8247,
+        "timestamp": "2022-04-27 06:18:39+00:00",
+        "id": "xXjEbSB8lr",
+        "created_at": "2022-04-27T11:48:55.934000+05:30",
+        "updated_at": "2022-04-27T11:48:55.945000+05:30"
+    },
+    {
+        "channel_id": 1355795157,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 21164,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c420a0>",
+        "status": "PROCESSING",
+        "text_message": "TARGET 3 DONE. PLEASE BOOK PROFIT AND ENJOY YOUR DAY",
+        "text_message_id": 21167,
+        "timestamp": "2022-04-27 06:19:53+00:00",
+        "id": "HlxTwNhVuy",
+        "created_at": "2022-04-27T11:50:36.843000+05:30",
+        "updated_at": "2022-04-27T11:50:36.857000+05:30"
+    },
+    {
+        "channel_id": 1470229714,
+        "msg_author": "Banknifty_specials",
+        "msg_author_id": 1470229714,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Join Premium Group :\n\nhttps://wa.link/wd0xoz",
+        "text_message_id": 9936,
+        "timestamp": "2022-04-27 06:22:20+00:00",
+        "id": "bZO8ycQ7rk",
+        "created_at": "2022-04-27T11:52:36.911000+05:30",
+        "updated_at": "2022-04-27T11:52:36.925000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": 33366,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5ceb820>",
+        "status": "PROCESSING",
+        "text_message": "15\u2764\ufe0f\u2705\n3 Times\ud83d\ude0e",
+        "text_message_id": 33409,
+        "timestamp": "2022-04-27 06:21:53+00:00",
+        "id": "lb0buJUqkN",
+        "created_at": "2022-04-27T11:52:36.931000+05:30",
+        "updated_at": "2022-04-27T11:52:36.946000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Done With Free Views \u2705\ud83d\ude0d\n\nJOIN OUR PREMIUM MEMBERSHIP \nand \nBE PART OF THE PROFITABLE JOURNEY WITH CHARTS, OI DATA ANALYSIS AND LOT MORE\n\nLINKS BELOW\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\n\nChannel 1: Index Options\nhttps://rigipay.com/g/0jyI1Jb9Qe\n\n\nChannel 2: Index +Stock Options\nhttps://rigipay.com/g/LZK4dlASkT",
+        "text_message_id": 8248,
+        "timestamp": "2022-04-27 06:27:59+00:00",
+        "id": "WdK40XJOXG",
+        "created_at": "2022-04-27T11:58:19.672000+05:30",
+        "updated_at": "2022-04-27T11:58:19.688000+05:30"
     }
 ]
