@@ -1993,5 +1993,577 @@
         "id": "3mnkc7hjlQ",
         "created_at": "2022-04-28T10:02:44.800000+05:30",
         "updated_at": "2022-04-28T10:02:44.815000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY HDFCLIFE 560CE ABV 15.50 TGT 16.50-17-18-20\nSL 14.30\nINTRADAY",
+        "text_message_id": 208461,
+        "timestamp": "2022-04-28 04:38:26+00:00",
+        "id": "YFbrz2ZsFm",
+        "created_at": "2022-04-28T10:08:43.508000+05:30",
+        "updated_at": "2022-04-28T10:08:44.119000+05:30",
+        "cleaned_text_message": "buy hdfclife 560ce abv 15.50 tgt 16.50-17-18-20 sl 14.30 intraday",
+        "output": [
+            {
+                "text_message": "buy hdfclife 560ce abv 15.50 tgt 16.50-17-18-20 sl 14.30 intraday",
+                "call_type": "BUY",
+                "strike_price": 560,
+                "instrument": "HDFCLIFE 560CE",
+                "derivative": "CALL",
+                "buy_price": [
+                    15.5
+                ],
+                "stop_loss": [
+                    14.3
+                ],
+                "target": [
+                    16.5,
+                    17.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:HDFCLIFE"
+            }
+        ]
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 54958,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c479a0>",
+        "status": "PROCESSING",
+        "text_message": "MARUTI MADE A HIGH OF 7919 \ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "text_message_id": 54964,
+        "timestamp": "2022-04-28 04:39:45+00:00",
+        "id": "7T28LyYvTD",
+        "created_at": "2022-04-28T10:10:27.016000+05:30",
+        "updated_at": "2022-04-28T10:10:27.027000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "SBILIFE 1100CE ALSO LOOKS GOOD ABV 34 \nTRADE AS PER RISK\nINSURANCE STOCK TODAY SEEMS GOOD",
+        "text_message_id": 208462,
+        "timestamp": "2022-04-28 04:40:39+00:00",
+        "id": "gXk0iFUGmb",
+        "created_at": "2022-04-28T10:10:43.675000+05:30",
+        "updated_at": "2022-04-28T10:10:43.691000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BANK NIFTY 36100 TO 36026 ! R-R 1:3, TIME 28 MINUTES !!",
+        "text_message_id": 35136,
+        "timestamp": "2022-04-28 04:40:27+00:00",
+        "id": "C5wmMAlqTf",
+        "created_at": "2022-04-28T10:10:43.695000+05:30",
+        "updated_at": "2022-04-28T10:11:04.056000+05:30",
+        "cleaned_text_message": "bank nifty 36100 to 36026 r-r 1 3, time 28 minutes",
+        "output": [
+            {
+                "text_message": "bank nifty 36100 to 36026 r-r 1 3, time 28 minutes",
+                "call_type": null,
+                "strike_price": 36,
+                "instrument": "BANK NIFTY 36",
+                "derivative": null,
+                "buy_price": [
+                    "100",
+                    "36026"
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 54959,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c63070>",
+        "status": "PROCESSING",
+        "text_message": "Watch it",
+        "text_message_id": 54965,
+        "timestamp": "2022-04-28 04:41:40+00:00",
+        "id": "5xMalPPRXF",
+        "created_at": "2022-04-28T10:12:27.053000+05:30",
+        "updated_at": "2022-04-28T10:12:27.064000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "BANKNIFTY HIGH 243\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf",
+        "text_message_id": 208463,
+        "timestamp": "2022-04-28 04:43:23+00:00",
+        "id": "eHyzEzTkL0",
+        "created_at": "2022-04-28T10:13:27.114000+05:30",
+        "updated_at": "2022-04-28T10:13:27.128000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "JINDALSTEL HIGH 27.85\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\nINDHOTEL HIGH 13.\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 HIGH VOLATILE",
+        "text_message_id": 208464,
+        "timestamp": "2022-04-28 04:45:15+00:00",
+        "id": "UlQIgheE78",
+        "created_at": "2022-04-28T10:15:27.208000+05:30",
+        "updated_at": "2022-04-28T10:15:27.223000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "ABCCAPITAL HIGH 6.90 LOT=4400\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+        "text_message_id": 208465,
+        "timestamp": "2022-04-28 04:46:42+00:00",
+        "id": "MJzTWqAC2d",
+        "created_at": "2022-04-28T10:16:44.315000+05:30",
+        "updated_at": "2022-04-28T10:16:44.328000+05:30"
+    },
+    {
+        "channel_id": 1195105033,
+        "msg_author": "nse_stocks_master",
+        "msg_author_id": 1195105033,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Intraday Buy call\n\nFSL 123-124\n\nTarget \ud83c\udfaf 127\n\nSl 119",
+        "text_message_id": 1622,
+        "timestamp": "2022-04-28 04:47:16+00:00",
+        "id": "yMlmhxUPKx",
+        "created_at": "2022-04-28T10:17:27.284000+05:30",
+        "updated_at": "2022-04-28T10:17:27.735000+05:30",
+        "cleaned_text_message": "intraday buy call fsl 123-124 target 127 sl 119",
+        "output": [
+            {
+                "text_message": "intraday buy call fsl 123-124 target 127 sl 119",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "FSL",
+                "derivative": null,
+                "buy_price": [
+                    123.0,
+                    124.0
+                ],
+                "stop_loss": [
+                    119.0
+                ],
+                "target": [
+                    127.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:FSL"
+            }
+        ]
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "MARUTI HIGH 245\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "text_message_id": 208466,
+        "timestamp": "2022-04-28 04:47:59+00:00",
+        "id": "OENsxZbjbv",
+        "created_at": "2022-04-28T10:18:27.346000+05:30",
+        "updated_at": "2022-04-28T10:18:27.358000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": 208461,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c3dee0>",
+        "status": "PROCESSING",
+        "text_message": "HDFCLIFE HIGH 16.70",
+        "text_message_id": 208467,
+        "timestamp": "2022-04-28 04:48:18+00:00",
+        "id": "gqA3yR3inq",
+        "created_at": "2022-04-28T10:18:27.363000+05:30",
+        "updated_at": "2022-04-28T10:18:27.375000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "HDFCLIFE HIGH 17.75",
+        "text_message_id": 208468,
+        "timestamp": "2022-04-28 04:50:50+00:00",
+        "id": "yeqNmE77pd",
+        "created_at": "2022-04-28T10:21:27.468000+05:30",
+        "updated_at": "2022-04-28T10:21:27.481000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "LAURUSLAB 600CE LOOKING @CMP 24 CHANCES ARE UP MOVE POSSIBLE \nTRADE AS PER YOUR RISK REWARD",
+        "text_message_id": 208469,
+        "timestamp": "2022-04-28 04:53:05+00:00",
+        "id": "VfAVHlJpnb",
+        "created_at": "2022-04-28T10:23:27.559000+05:30",
+        "updated_at": "2022-04-28T10:23:27.571000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 54959,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cfbc10>",
+        "status": "PROCESSING",
+        "text_message": "WATCH IT FOR A BREAKOUT",
+        "text_message_id": 54966,
+        "timestamp": "2022-04-28 04:54:17+00:00",
+        "id": "xNmavpjv40",
+        "created_at": "2022-04-28T10:24:27.580000+05:30",
+        "updated_at": "2022-04-28T10:24:27.595000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "BEML looks good Above 1710",
+        "text_message_id": 2612,
+        "timestamp": "2022-04-28 04:54:27+00:00",
+        "id": "Zlt7VsILIt",
+        "created_at": "2022-04-28T10:25:27.624000+05:30",
+        "updated_at": "2022-04-28T10:25:27.638000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2610,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5e499d0>",
+        "status": "PROCESSING",
+        "text_message": "MADE A HIGH OF 689",
+        "text_message_id": 2613,
+        "timestamp": "2022-04-28 04:54:37+00:00",
+        "id": "DKV6KToM43",
+        "created_at": "2022-04-28T10:25:27.641000+05:30",
+        "updated_at": "2022-04-28T10:25:27.654000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2612,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5ca2f10>",
+        "status": "PROCESSING",
+        "text_message": "KEEP WATCHING",
+        "text_message_id": 2614,
+        "timestamp": "2022-04-28 04:54:47+00:00",
+        "id": "LYIE4MQiUD",
+        "created_at": "2022-04-28T10:25:27.658000+05:30",
+        "updated_at": "2022-04-28T10:25:27.669000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "BANKNIFTY HIGH 385\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "text_message_id": 208470,
+        "timestamp": "2022-04-28 04:58:34+00:00",
+        "id": "3nJLyhNlSx",
+        "created_at": "2022-04-28T10:28:38+05:30",
+        "updated_at": "2022-04-28T10:28:38.013000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcab",
+        "text_message_id": 35137,
+        "timestamp": "2022-04-28 04:59:12+00:00",
+        "id": "0nnQxQkxn9",
+        "created_at": "2022-04-28T10:29:27.286000+05:30",
+        "updated_at": "2022-04-28T10:29:27.299000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "INTRA DAY BUY HDFC LTD APR 2220 PUT @ 13-16, SL 10, TGT 30-55+",
+        "text_message_id": 35138,
+        "timestamp": "2022-04-28 05:00:23+00:00",
+        "id": "JKartLMgvd",
+        "created_at": "2022-04-28T10:30:27.829000+05:30",
+        "updated_at": "2022-04-28T10:30:28.571000+05:30",
+        "cleaned_text_message": "intra day buy hdfc ltd apr 2220 put @ 13-16, sl 10, tgt 30-55",
+        "output": [
+            {
+                "text_message": "intra day buy hdfc ltd apr 2220 put @ 13-16, sl 10, tgt 30-55",
+                "call_type": "BUY",
+                "strike_price": 2220,
+                "instrument": "HDFC LTD APR 2220 PUT",
+                "derivative": "PUT",
+                "buy_price": [
+                    13.0,
+                    16.0
+                ],
+                "stop_loss": [
+                    10.0
+                ],
+                "target": [
+                    30.0,
+                    55.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:HDFC"
+            }
+        ]
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 54959,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cfb370>",
+        "status": "PROCESSING",
+        "text_message": "BEML MADE A HIGH 1715\ud83d\ude80\ud83d\ude80",
+        "text_message_id": 54967,
+        "timestamp": "2022-04-28 05:01:21+00:00",
+        "id": "NigtEqpkl4",
+        "created_at": "2022-04-28T10:31:27.880000+05:30",
+        "updated_at": "2022-04-28T10:31:27.891000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": 33436,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c75c70>",
+        "status": "PROCESSING",
+        "text_message": "175 high\u2764\ufe0f\u2705",
+        "text_message_id": 33440,
+        "timestamp": "2022-04-28 05:02:29+00:00",
+        "id": "KiWUH5Yo4w",
+        "created_at": "2022-04-28T10:33:27.962000+05:30",
+        "updated_at": "2022-04-28T10:33:27.974000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30496,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c3df70>",
+        "status": "PROCESSING",
+        "text_message": "490 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30497,
+        "timestamp": "2022-04-28 05:05:26+00:00",
+        "id": "X5XtVIBoR2",
+        "created_at": "2022-04-28T10:35:28.044000+05:30",
+        "updated_at": "2022-04-28T10:35:28.058000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30496,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c826d0>",
+        "status": "PROCESSING",
+        "text_message": "500 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30498,
+        "timestamp": "2022-04-28 05:05:33+00:00",
+        "id": "1P9Q75eb8k",
+        "created_at": "2022-04-28T10:36:28.059000+05:30",
+        "updated_at": "2022-04-28T10:36:28.073000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30496,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c825b0>",
+        "status": "PROCESSING",
+        "text_message": "510 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30499,
+        "timestamp": "2022-04-28 05:05:40+00:00",
+        "id": "Xqit8u6tjk",
+        "created_at": "2022-04-28T10:36:28.077000+05:30",
+        "updated_at": "2022-04-28T10:36:28.093000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30496,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c826d0>",
+        "status": "PROCESSING",
+        "text_message": "520 \u2705\u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30500,
+        "timestamp": "2022-04-28 05:05:50+00:00",
+        "id": "bgLFVLeWCX",
+        "created_at": "2022-04-28T10:36:28.096000+05:30",
+        "updated_at": "2022-04-28T10:36:28.112000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30496,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cfbf40>",
+        "status": "PROCESSING",
+        "text_message": "540 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30501,
+        "timestamp": "2022-04-28 05:06:00+00:00",
+        "id": "uDaIArgtUv",
+        "created_at": "2022-04-28T10:36:28.119000+05:30",
+        "updated_at": "2022-04-28T10:36:28.131000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30496,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c775b0>",
+        "status": "PROCESSING",
+        "text_message": "553 \u2705\u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30502,
+        "timestamp": "2022-04-28 05:06:07+00:00",
+        "id": "GrievQglOA",
+        "created_at": "2022-04-28T10:36:28.134000+05:30",
+        "updated_at": "2022-04-28T10:36:28.147000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "RELIANCE Looks good above 2830",
+        "text_message_id": 54968,
+        "timestamp": "2022-04-28 05:08:05+00:00",
+        "id": "mtAnEpDLdS",
+        "created_at": "2022-04-28T10:38:28.111000+05:30",
+        "updated_at": "2022-04-28T10:38:28.366000+05:30",
+        "cleaned_text_message": "reliance looks good above 2830",
+        "output": [
+            {
+                "text_message": "reliance looks good above 2830",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "RELIANCE",
+                "derivative": null,
+                "buy_price": [
+                    2830.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:RELIANCE"
+            }
+        ]
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "FSL HIGH 8.40 LOT=2600\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "text_message_id": 208471,
+        "timestamp": "2022-04-28 05:08:39+00:00",
+        "id": "C0AMsGYC8e",
+        "created_at": "2022-04-28T10:38:45.256000+05:30",
+        "updated_at": "2022-04-28T10:38:45.269000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "ALLCARGO BUY ABOVE 366\nSL 364\nTARGET 368-370-372",
+        "text_message_id": 2615,
+        "timestamp": "2022-04-28 05:09:54+00:00",
+        "id": "9lm2IV0jdh",
+        "created_at": "2022-04-28T10:40:16.627000+05:30",
+        "updated_at": "2022-04-28T10:40:16.672000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "JUST FOR INFO :  BAK NIFTY DOWN 165,   SL ONLY 25 RS\n\nNEXT TGT 35722",
+        "text_message_id": 35139,
+        "timestamp": "2022-04-28 05:11:25+00:00",
+        "id": "Uf5v7dfugl",
+        "created_at": "2022-04-28T10:41:28.175000+05:30",
+        "updated_at": "2022-04-28T10:41:28.187000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "JUST FOR INFO : \n\nTODAY OUR H/I CLIENTS HAVING HUGE HUGE DELIVERY SELL ORDERS IN BAJAJ FIN / BAJAJ FINSERVE / WIPRO / HCL / TATA MOTOR / TECH M",
+        "text_message_id": 35140,
+        "timestamp": "2022-04-28 05:12:50+00:00",
+        "id": "nWc6sDQRH7",
+        "created_at": "2022-04-28T10:42:50.693000+05:30",
+        "updated_at": "2022-04-28T10:42:50.705000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": 33436,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c82eb0>",
+        "status": "PROCESSING",
+        "text_message": "Again 140 \u2764\ufe0f\u2705",
+        "text_message_id": 33441,
+        "timestamp": "2022-04-28 05:14:43+00:00",
+        "id": "x6t7UZuuc0",
+        "created_at": "2022-04-28T10:45:28.357000+05:30",
+        "updated_at": "2022-04-28T10:45:28.369000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "If you have booked Profit share your profit screen shot \ud83d\udc47\ud83d\udc47\n\nhttps://t.me/Dliprime",
+        "text_message_id": 33442,
+        "timestamp": "2022-04-28 05:17:47+00:00",
+        "id": "gPAdE10Dss",
+        "created_at": "2022-04-28T10:48:28.398000+05:30",
+        "updated_at": "2022-04-28T10:48:28.413000+05:30"
     }
 ]
