@@ -710,5 +710,1172 @@
         "id": "2uXRh5pRXM",
         "created_at": "2022-04-29T09:13:19.643000+05:30",
         "updated_at": "2022-04-29T09:13:19.897000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Positional \u2705\n\nBuy Hindunilvr Above 2455\n\nTarget 2475 - 2510\n\nThis is our trading view only & education purpose only. Before Investing consultant your financial advisor.",
+        "text_message_id": 33474,
+        "timestamp": "2022-04-29 03:43:44+00:00",
+        "id": "ZlEos3YVb3",
+        "created_at": "2022-04-29T09:14:19.643000+05:30",
+        "updated_at": "2022-04-29T09:14:20.149000+05:30",
+        "cleaned_text_message": "positional buy hindunilvr above 2455 target 2475 - 2510 this is our trading view only & education purpose only. before investing consultant your financial advisor.",
+        "output": [
+            {
+                "text_message": "positional buy hindunilvr above 2455 target 2475 - 2510 this is our trading view only & education purpose only. before investing consultant your financial advisor.",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "HINDUNILVR",
+                "derivative": null,
+                "buy_price": [
+                    2455.0
+                ],
+                "stop_loss": null,
+                "target": [
+                    2475.0,
+                    2510.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:HINDUNILVR"
+            }
+        ]
+    },
+    {
+        "channel_id": 1303616692,
+        "msg_author": "Geeksofnifty",
+        "msg_author_id": 1303616692,
+        "replied_to": 22274,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cfb190>",
+        "status": "PROCESSING",
+        "text_message": "can average at 16-18..tgt 30+",
+        "text_message_id": 22280,
+        "timestamp": "2022-04-29 03:45:29+00:00",
+        "id": "lcLDZtOJx5",
+        "created_at": "2022-04-29T09:16:19.769000+05:30",
+        "updated_at": "2022-04-29T09:16:19.781000+05:30"
+    },
+    {
+        "channel_id": 1205797779,
+        "msg_author": "TradingEdge28april",
+        "msg_author_id": 1205797779,
+        "replied_to": 3556,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cfb190>",
+        "status": "PROCESSING",
+        "text_message": "1376",
+        "text_message_id": 3559,
+        "timestamp": "2022-04-29 03:45:21+00:00",
+        "id": "481nOulqFe",
+        "created_at": "2022-04-29T09:16:19.790000+05:30",
+        "updated_at": "2022-04-29T09:16:19.802000+05:30"
+    },
+    {
+        "channel_id": 1205797779,
+        "msg_author": "TradingEdge28april",
+        "msg_author_id": 1205797779,
+        "replied_to": 3556,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c05520>",
+        "status": "PROCESSING",
+        "text_message": "1381",
+        "text_message_id": 3560,
+        "timestamp": "2022-04-29 03:45:40+00:00",
+        "id": "2KokeF2I8j",
+        "created_at": "2022-04-29T09:16:19.808000+05:30",
+        "updated_at": "2022-04-29T09:16:19.822000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Buy SRTRANSFIN 1180 CE above 77",
+        "text_message_id": 8449,
+        "timestamp": "2022-04-29 03:46:56+00:00",
+        "id": "R8lX8FeCqv",
+        "created_at": "2022-04-29T09:17:02.517000+05:30",
+        "updated_at": "2022-04-29T09:17:02.840000+05:30",
+        "cleaned_text_message": "buy srtransfin 1180 ce above 77",
+        "output": [
+            {
+                "text_message": "buy srtransfin 1180 ce above 77",
+                "call_type": "BUY",
+                "strike_price": 1180,
+                "instrument": "SRTRANSFIN 1180 CE",
+                "derivative": "CALL",
+                "buy_price": [
+                    77.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:SRTRANSFIN"
+            }
+        ]
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "STRICTLY EXIT FROM ALL BTST/STBT POSITIONS",
+        "text_message_id": 35158,
+        "timestamp": "2022-04-29 03:46:39+00:00",
+        "id": "1T5SFJKv69",
+        "created_at": "2022-04-29T09:17:02.567000+05:30",
+        "updated_at": "2022-04-29T09:17:02.842000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30516,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c1ceb0>",
+        "status": "PROCESSING",
+        "text_message": "400 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30517,
+        "timestamp": "2022-04-29 03:46:44+00:00",
+        "id": "Bgfupo68X4",
+        "created_at": "2022-04-29T09:17:02.599000+05:30",
+        "updated_at": "2022-04-29T09:17:02.846000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30516,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c17550>",
+        "status": "PROCESSING",
+        "text_message": "410 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30518,
+        "timestamp": "2022-04-29 03:46:49+00:00",
+        "id": "6784fb1Hix",
+        "created_at": "2022-04-29T09:17:02.659000+05:30",
+        "updated_at": "2022-04-29T09:17:02.849000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30516,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c0b0d0>",
+        "status": "PROCESSING",
+        "text_message": "420 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30519,
+        "timestamp": "2022-04-29 03:46:59+00:00",
+        "id": "3axaYZJIok",
+        "created_at": "2022-04-29T09:17:02.707000+05:30",
+        "updated_at": "2022-04-29T09:17:02.852000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": 8449,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c03070>",
+        "status": "PROCESSING",
+        "text_message": "Active",
+        "text_message_id": 8450,
+        "timestamp": "2022-04-29 03:47:14+00:00",
+        "id": "GCJfDJivHf",
+        "created_at": "2022-04-29T09:17:19.792000+05:30",
+        "updated_at": "2022-04-29T09:17:19.806000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "77",
+        "text_message_id": 8451,
+        "timestamp": "2022-04-29 03:47:15+00:00",
+        "id": "KlKA4eo1mL",
+        "created_at": "2022-04-29T09:17:19.808000+05:30",
+        "updated_at": "2022-04-29T09:17:19.820000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "78",
+        "text_message_id": 8452,
+        "timestamp": "2022-04-29 03:47:16+00:00",
+        "id": "18FHqz3vIz",
+        "created_at": "2022-04-29T09:17:19.823000+05:30",
+        "updated_at": "2022-04-29T09:17:19.835000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "79",
+        "text_message_id": 8453,
+        "timestamp": "2022-04-29 03:47:17+00:00",
+        "id": "LQo3mkXwC4",
+        "created_at": "2022-04-29T09:17:19.841000+05:30",
+        "updated_at": "2022-04-29T09:17:19.852000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "80",
+        "text_message_id": 8454,
+        "timestamp": "2022-04-29 03:47:18+00:00",
+        "id": "qnXjVOzBo3",
+        "created_at": "2022-04-29T09:17:19.857000+05:30",
+        "updated_at": "2022-04-29T09:17:19.870000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30516,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c14f10>",
+        "status": "PROCESSING",
+        "text_message": "430 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30520,
+        "timestamp": "2022-04-29 03:47:06+00:00",
+        "id": "Uq30JxfAfF",
+        "created_at": "2022-04-29T09:17:19.876000+05:30",
+        "updated_at": "2022-04-29T09:17:19.889000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30516,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c01130>",
+        "status": "PROCESSING",
+        "text_message": "440 \u2705\u2705\u2705\u2705\u2705",
+        "text_message_id": 30521,
+        "timestamp": "2022-04-29 03:47:13+00:00",
+        "id": "MVkion8fgr",
+        "created_at": "2022-04-29T09:17:19.897000+05:30",
+        "updated_at": "2022-04-29T09:17:19.910000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "82",
+        "text_message_id": 8455,
+        "timestamp": "2022-04-29 03:47:19+00:00",
+        "id": "zKfH6NNVvE",
+        "created_at": "2022-04-29T09:18:19.854000+05:30",
+        "updated_at": "2022-04-29T09:18:19.868000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "83",
+        "text_message_id": 8456,
+        "timestamp": "2022-04-29 03:47:36+00:00",
+        "id": "sEF4F6qz8X",
+        "created_at": "2022-04-29T09:18:19.871000+05:30",
+        "updated_at": "2022-04-29T09:18:19.882000+05:30"
+    },
+    {
+        "channel_id": 1372796216,
+        "msg_author": "ushasanalysis",
+        "msg_author_id": 1372796216,
+        "replied_to": 11900,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cfbc10>",
+        "status": "SUCCESS",
+        "text_message": "SRTRANSFIN MAY FUTURES\n\n\n6% UP TODAY!!\n\n\n1214\ud83d\udc4d\ud83d\udc4d",
+        "text_message_id": 11908,
+        "timestamp": "2022-04-29 03:48:20+00:00",
+        "id": "rHMZYBSGc7",
+        "created_at": "2022-04-29T09:18:52.512000+05:30",
+        "updated_at": "2022-04-29T09:18:52.811000+05:30",
+        "cleaned_text_message": "srtransfin may futures 6% up today 1214",
+        "output": [
+            {
+                "text_message": "srtransfin may futures 6% up today 1214",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "SRTRANSFIN MAY FUTURES",
+                "derivative": "FUT",
+                "buy_price": [
+                    1214.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:SRTRANSFIN"
+            }
+        ]
+    },
+    {
+        "channel_id": 1372796216,
+        "msg_author": "ushasanalysis",
+        "msg_author_id": 1372796216,
+        "replied_to": 11899,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c0a520>",
+        "status": "PROCESSING",
+        "text_message": "BSE ALMOST 3% UP\n\n\n890\ud83d\udc4d\ud83d\udc4d",
+        "text_message_id": 11909,
+        "timestamp": "2022-04-29 03:48:43+00:00",
+        "id": "65bQnSok9K",
+        "created_at": "2022-04-29T09:18:52.555000+05:30",
+        "updated_at": "2022-04-29T09:18:52.815000+05:30"
+    },
+    {
+        "channel_id": 1264926718,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 30516,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c03fa0>",
+        "status": "PROCESSING",
+        "text_message": "450 \u2705\u2705\u2705\u2705",
+        "text_message_id": 30522,
+        "timestamp": "2022-04-29 03:48:30+00:00",
+        "id": "oRSq7ZfQEP",
+        "created_at": "2022-04-29T09:18:52.599000+05:30",
+        "updated_at": "2022-04-29T09:18:52.819000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Book or Trail SL",
+        "text_message_id": 8457,
+        "timestamp": "2022-04-29 03:49:36+00:00",
+        "id": "JRkSPPmqDN",
+        "created_at": "2022-04-29T09:20:19.897000+05:30",
+        "updated_at": "2022-04-29T09:20:19.911000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Heavy potential in this",
+        "text_message_id": 8458,
+        "timestamp": "2022-04-29 03:49:55+00:00",
+        "id": "KM29etx9XT",
+        "created_at": "2022-04-29T09:20:19.917000+05:30",
+        "updated_at": "2022-04-29T09:20:19.930000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "84",
+        "text_message_id": 8459,
+        "timestamp": "2022-04-29 03:49:59+00:00",
+        "id": "Ez3y5gDoaJ",
+        "created_at": "2022-04-29T09:20:19.934000+05:30",
+        "updated_at": "2022-04-29T09:20:19.949000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "85",
+        "text_message_id": 8460,
+        "timestamp": "2022-04-29 03:50:00+00:00",
+        "id": "aqr8Sa7Ylr",
+        "created_at": "2022-04-29T09:20:19.956000+05:30",
+        "updated_at": "2022-04-29T09:20:19.970000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "86",
+        "text_message_id": 8461,
+        "timestamp": "2022-04-29 03:50:09+00:00",
+        "id": "ArF8BIjjH9",
+        "created_at": "2022-04-29T09:20:19.975000+05:30",
+        "updated_at": "2022-04-29T09:20:19.988000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY BANKNIFTY 36700 CE\n\n310-320\u2764\ufe0f\u2764\ufe0f",
+        "text_message_id": 8309,
+        "timestamp": "2022-04-29 03:49:46+00:00",
+        "id": "15sDJ7A8nO",
+        "created_at": "2022-04-29T09:20:19.995000+05:30",
+        "updated_at": "2022-04-29T09:20:40.299000+05:30",
+        "cleaned_text_message": "buy banknifty 36700 ce 310-320",
+        "output": [
+            {
+                "text_message": "buy banknifty 36700 ce 310-320",
+                "call_type": "BUY",
+                "strike_price": 36700,
+                "instrument": "BANKNIFTY 36700 CE",
+                "derivative": "CALL",
+                "buy_price": [
+                    310.0,
+                    320.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "All views are educational purposes,\nTrading at ur own risk. please consult your financial advisor before any decision.",
+        "text_message_id": 8310,
+        "timestamp": "2022-04-29 03:49:54+00:00",
+        "id": "cWe4vjPDtR",
+        "created_at": "2022-04-29T09:20:20.043000+05:30",
+        "updated_at": "2022-04-29T09:20:40.302000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8309,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c03190>",
+        "status": "PROCESSING",
+        "text_message": "KEEP SMALL SL...",
+        "text_message_id": 8311,
+        "timestamp": "2022-04-29 03:50:19+00:00",
+        "id": "NUrgfGQ5eD",
+        "created_at": "2022-04-29T09:20:20.075000+05:30",
+        "updated_at": "2022-04-29T09:20:40.305000+05:30"
+    },
+    {
+        "channel_id": 1205797779,
+        "msg_author": "TradingEdge28april",
+        "msg_author_id": 1205797779,
+        "replied_to": 3556,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c53580>",
+        "status": "PROCESSING",
+        "text_message": "1360 TO 1375 \n\n8250\u20b9 PROFITS PER LOT",
+        "text_message_id": 3561,
+        "timestamp": "2022-04-29 03:49:22+00:00",
+        "id": "nerNt1487r",
+        "created_at": "2022-04-29T09:20:20.115000+05:30",
+        "updated_at": "2022-04-29T09:20:40.308000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "87",
+        "text_message_id": 8462,
+        "timestamp": "2022-04-29 03:51:09+00:00",
+        "id": "bkVG4M1J1C",
+        "created_at": "2022-04-29T09:21:19.954000+05:30",
+        "updated_at": "2022-04-29T09:21:19.967000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Rs.4000 Profit running per lot\ud83d\ude0d\ud83d\udc9a\n\nJust check the live Demo\n\nEnjoy all morning Breakfast \ud83e\udd50",
+        "text_message_id": 8463,
+        "timestamp": "2022-04-29 03:51:47+00:00",
+        "id": "PtXFwYfYVX",
+        "created_at": "2022-04-29T09:22:19.986000+05:30",
+        "updated_at": "2022-04-29T09:22:19.998000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208577,
+        "timestamp": "2022-04-29 03:52:50+00:00",
+        "id": "IjeQ2onZQ9",
+        "created_at": "2022-04-29T09:22:54.936000+05:30",
+        "updated_at": "2022-04-29T09:22:54.949000+05:30"
+    },
+    {
+        "channel_id": 1372796216,
+        "msg_author": "ushasanalysis",
+        "msg_author_id": 1372796216,
+        "replied_to": 11900,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c18190>",
+        "status": "SUCCESS",
+        "text_message": "SRTRANSFIN MAY FUTURES\n\n\n7% UP NOW",
+        "text_message_id": 11910,
+        "timestamp": "2022-04-29 03:52:22+00:00",
+        "id": "ITwoSPsaHL",
+        "created_at": "2022-04-29T09:22:54.955000+05:30",
+        "updated_at": "2022-04-29T09:22:55.168000+05:30",
+        "cleaned_text_message": "srtransfin may futures 7% up now",
+        "output": [
+            {
+                "text_message": "srtransfin may futures 7% up now",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "SRTRANSFIN MAY FUTURES",
+                "derivative": "FUT",
+                "buy_price": null,
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:SRTRANSFIN"
+            }
+        ]
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208578,
+        "timestamp": "2022-04-29 03:54:08+00:00",
+        "id": "Iz5cn5IkbW",
+        "created_at": "2022-04-29T09:24:17.741000+05:30",
+        "updated_at": "2022-04-29T09:24:17.752000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208579,
+        "timestamp": "2022-04-29 03:54:24+00:00",
+        "id": "UxnB8t3yk7",
+        "created_at": "2022-04-29T09:24:37.995000+05:30",
+        "updated_at": "2022-04-29T09:24:38.011000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Positional \u2705\n\nBuy BSE 907\n\nTarget 925 - 940\n\nThis is our trading view only & education purpose only. Before Investing consultant your financial advisor.",
+        "text_message_id": 33475,
+        "timestamp": "2022-04-29 03:54:33+00:00",
+        "id": "HKCEA3CzVh",
+        "created_at": "2022-04-29T09:24:38.015000+05:30",
+        "updated_at": "2022-04-29T09:24:38.648000+05:30",
+        "cleaned_text_message": "positional buy bse 907 target 925 - 940 this is our trading view only & education purpose only. before investing consultant your financial advisor.",
+        "output": [
+            {
+                "text_message": "positional buy bse 907 target 925 - 940 this is our trading view only & education purpose only. before investing consultant your financial advisor.",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "BSE",
+                "derivative": null,
+                "buy_price": null,
+                "stop_loss": null,
+                "target": [
+                    -9.899999999999977,
+                    -24.899999999999977
+                ],
+                "timeframe": null,
+                "stock": "NSE:BSE"
+            }
+        ]
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "88\ud83d\udca5\ud83d\ude80",
+        "text_message_id": 8464,
+        "timestamp": "2022-04-29 03:54:51+00:00",
+        "id": "niDPPQd5aP",
+        "created_at": "2022-04-29T09:25:00.074000+05:30",
+        "updated_at": "2022-04-29T09:25:00.084000+05:30"
+    },
+    {
+        "channel_id": 1509613575,
+        "msg_author": "tradetrick_Trades",
+        "msg_author_id": 1509613575,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY BANKNIFTY 5TH MAY 36500 CE \nABOVE 440\nTARGET 470/510/550\nSL",
+        "text_message_id": 2156,
+        "timestamp": "2022-04-29 03:54:46+00:00",
+        "id": "GiZGm5lICN",
+        "created_at": "2022-04-29T09:25:00.091000+05:30",
+        "updated_at": "2022-04-29T09:25:20.513000+05:30",
+        "cleaned_text_message": "buy banknifty 5th may 36500 ce above 440 target 470/510/550 sl",
+        "output": [
+            {
+                "text_message": "buy banknifty 5th may 36500 ce above 440 target 470/510/550 sl",
+                "call_type": "BUY",
+                "strike_price": 536500,
+                "instrument": "BANKNIFTY 5TH MAY 36500 CE",
+                "derivative": "CALL",
+                "buy_price": [
+                    440.0
+                ],
+                "stop_loss": null,
+                "target": [
+                    470.0,
+                    510.0,
+                    550.0
+                ],
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1509613575,
+        "msg_author": "tradetrick_Trades",
+        "msg_author_id": 1509613575,
+        "replied_to": 2156,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c03fd0>",
+        "status": "PROCESSING",
+        "text_message": "ACTIVE\ud83d\udd25\ud83d\ude0d",
+        "text_message_id": 2157,
+        "timestamp": "2022-04-29 03:55:00+00:00",
+        "id": "U4lsOG8DiS",
+        "created_at": "2022-04-29T09:25:00.766000+05:30",
+        "updated_at": "2022-04-29T09:25:20.516000+05:30"
+    },
+    {
+        "channel_id": 1372796216,
+        "msg_author": "ushasanalysis",
+        "msg_author_id": 1372796216,
+        "replied_to": 11899,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c0b490>",
+        "status": "PROCESSING",
+        "text_message": "BSE 916\n\n\nALMOST 6% UP NOW\ud83d\udc4d\ud83d\udc4d",
+        "text_message_id": 11911,
+        "timestamp": "2022-04-29 03:55:05+00:00",
+        "id": "qzL9Sa5zbe",
+        "created_at": "2022-04-29T09:25:05.697000+05:30",
+        "updated_at": "2022-04-29T09:25:20.519000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "How is my level and stock selection \ud83d\ude01\ud83d\ude01\ud83d\udcaa",
+        "text_message_id": 8465,
+        "timestamp": "2022-04-29 03:55:13+00:00",
+        "id": "Qk6cyeH8sI",
+        "created_at": "2022-04-29T09:25:20.010000+05:30",
+        "updated_at": "2022-04-29T09:25:20.523000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208580,
+        "timestamp": "2022-04-29 03:55:33+00:00",
+        "id": "daLYzXLuBa",
+        "created_at": "2022-04-29T09:25:45.486000+05:30",
+        "updated_at": "2022-04-29T09:25:45.500000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208581,
+        "timestamp": "2022-04-29 03:55:38+00:00",
+        "id": "0T4pUrNztV",
+        "created_at": "2022-04-29T09:25:45.506000+05:30",
+        "updated_at": "2022-04-29T09:25:45.517000+05:30"
+    },
+    {
+        "channel_id": 1213433107,
+        "msg_author": "wealthciti",
+        "msg_author_id": 1213433107,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Intraday Candidate \u2705\n\nBUY PVR ABOVE 1838\n\nTGT 1847 , 1860",
+        "text_message_id": 2535,
+        "timestamp": "2022-04-29 03:55:34+00:00",
+        "id": "4527XWpLmq",
+        "created_at": "2022-04-29T09:25:45.520000+05:30",
+        "updated_at": "2022-04-29T09:25:45.868000+05:30",
+        "cleaned_text_message": "intraday candidate buy pvr above 1838 tgt 1847 , 1860",
+        "output": [
+            {
+                "text_message": "intraday candidate buy pvr above 1838 tgt 1847 , 1860",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "PVR",
+                "derivative": null,
+                "buy_price": [
+                    1838.0
+                ],
+                "stop_loss": null,
+                "target": [
+                    1847.0,
+                    1860.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:PVR"
+            }
+        ]
+    },
+    {
+        "channel_id": 1509613575,
+        "msg_author": "tradetrick_Trades",
+        "msg_author_id": 1509613575,
+        "replied_to": 2156,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c0bfa0>",
+        "status": "PROCESSING",
+        "text_message": "445\ud83d\ude80\u26a1\ufe0f\ud83d\udd25",
+        "text_message_id": 2158,
+        "timestamp": "2022-04-29 03:56:25+00:00",
+        "id": "k1Bz9ZT5ye",
+        "created_at": "2022-04-29T09:26:44.326000+05:30",
+        "updated_at": "2022-04-29T09:26:44.337000+05:30"
+    },
+    {
+        "channel_id": 1509613575,
+        "msg_author": "tradetrick_Trades",
+        "msg_author_id": 1509613575,
+        "replied_to": 2156,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c0b940>",
+        "status": "PROCESSING",
+        "text_message": "450\ud83d\ude80\u26a1\ufe0f\u2764\ufe0f",
+        "text_message_id": 2159,
+        "timestamp": "2022-04-29 03:56:29+00:00",
+        "id": "nSXknfj2gi",
+        "created_at": "2022-04-29T09:26:44.346000+05:30",
+        "updated_at": "2022-04-29T09:26:44.358000+05:30"
+    },
+    {
+        "channel_id": 1509613575,
+        "msg_author": "tradetrick_Trades",
+        "msg_author_id": 1509613575,
+        "replied_to": 2156,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c14250>",
+        "status": "PROCESSING",
+        "text_message": "455\ud83d\ude0d\ud83d\udd25",
+        "text_message_id": 2160,
+        "timestamp": "2022-04-29 03:56:36+00:00",
+        "id": "WLSTKUciUb",
+        "created_at": "2022-04-29T09:26:44.364000+05:30",
+        "updated_at": "2022-04-29T09:26:44.376000+05:30"
+    },
+    {
+        "channel_id": 1509613575,
+        "msg_author": "tradetrick_Trades",
+        "msg_author_id": 1509613575,
+        "replied_to": 2156,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c829a0>",
+        "status": "PROCESSING",
+        "text_message": "460\u2764\ufe0f\ud83d\ude0d",
+        "text_message_id": 2161,
+        "timestamp": "2022-04-29 03:56:46+00:00",
+        "id": "vMtkMtksFz",
+        "created_at": "2022-04-29T09:26:50.185000+05:30",
+        "updated_at": "2022-04-29T09:26:50.197000+05:30"
+    },
+    {
+        "channel_id": 1509613575,
+        "msg_author": "tradetrick_Trades",
+        "msg_author_id": 1509613575,
+        "replied_to": 2156,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c0a1c0>",
+        "status": "PROCESSING",
+        "text_message": "464\ud83d\udd25\ud83d\ude0d\n\nSHIFT STOPLOSS TO ENTRY POINT",
+        "text_message_id": 2162,
+        "timestamp": "2022-04-29 03:58:06+00:00",
+        "id": "Dt9aT8kKbc",
+        "created_at": "2022-04-29T09:28:20.066000+05:30",
+        "updated_at": "2022-04-29T09:28:20.078000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8309,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c009a0>",
+        "status": "PROCESSING",
+        "text_message": "315+\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "text_message_id": 8312,
+        "timestamp": "2022-04-29 03:57:37+00:00",
+        "id": "QRabPhUXah",
+        "created_at": "2022-04-29T09:28:20.087000+05:30",
+        "updated_at": "2022-04-29T09:28:20.098000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8309,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c009a0>",
+        "status": "PROCESSING",
+        "text_message": "320+\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "text_message_id": 8313,
+        "timestamp": "2022-04-29 03:57:40+00:00",
+        "id": "DcAwncAtRJ",
+        "created_at": "2022-04-29T09:28:20.101000+05:30",
+        "updated_at": "2022-04-29T09:28:20.111000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8309,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cebd90>",
+        "status": "PROCESSING",
+        "text_message": "330+\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "text_message_id": 8314,
+        "timestamp": "2022-04-29 03:57:44+00:00",
+        "id": "j0S3ND6Crw",
+        "created_at": "2022-04-29T09:28:20.115000+05:30",
+        "updated_at": "2022-04-29T09:28:20.125000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8309,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c11220>",
+        "status": "PROCESSING",
+        "text_message": "340+\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "text_message_id": 8315,
+        "timestamp": "2022-04-29 03:57:49+00:00",
+        "id": "krRBanDwBd",
+        "created_at": "2022-04-29T09:28:20.132000+05:30",
+        "updated_at": "2022-04-29T09:28:20.144000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8309,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c11550>",
+        "status": "PROCESSING",
+        "text_message": "350+\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+        "text_message_id": 8316,
+        "timestamp": "2022-04-29 03:57:53+00:00",
+        "id": "7EZl7Kvzmk",
+        "created_at": "2022-04-29T09:28:20.147000+05:30",
+        "updated_at": "2022-04-29T09:28:20.157000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8309,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c7bb20>",
+        "status": "PROCESSING",
+        "text_message": "360+\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\n\nEASY 5000/- ON 4 LOTS\ud83d\udca3\ud83d\udca3\u2705\n\nSafe can book rest trail SL as per ur comfort",
+        "text_message_id": 8317,
+        "timestamp": "2022-04-29 03:58:18+00:00",
+        "id": "KvsR8XAOJc",
+        "created_at": "2022-04-29T09:28:20.165000+05:30",
+        "updated_at": "2022-04-29T09:28:20.175000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": 33475,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c7bb20>",
+        "status": "PROCESSING",
+        "text_message": "918 High\u2764\ufe0f\u2705",
+        "text_message_id": 33476,
+        "timestamp": "2022-04-29 03:57:23+00:00",
+        "id": "LHnNFXUMBr",
+        "created_at": "2022-04-29T09:28:20.179000+05:30",
+        "updated_at": "2022-04-29T09:28:20.192000+05:30"
+    },
+    {
+        "channel_id": 1470229714,
+        "msg_author": "Banknifty_specials",
+        "msg_author_id": 1470229714,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "36600CE Good Above @ 405\n\nSL : 360",
+        "text_message_id": 9962,
+        "timestamp": "2022-04-29 04:00:50+00:00",
+        "id": "IIArolYfF5",
+        "created_at": "2022-04-29T09:31:18.071000+05:30",
+        "updated_at": "2022-04-29T09:31:48.385000+05:30",
+        "cleaned_text_message": "36600ce good above @ 405 sl 360",
+        "output": [
+            {
+                "text_message": "36600ce good above @ 405 sl 360",
+                "call_type": null,
+                "strike_price": 36600,
+                "instrument": "36600CE GOOD",
+                "derivative": "CALL",
+                "buy_price": [
+                    405.0
+                ],
+                "stop_loss": [
+                    360.0
+                ],
+                "target": null,
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1470229714,
+        "msg_author": "Banknifty_specials",
+        "msg_author_id": 1470229714,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Banknifty Good Above @ 36615",
+        "text_message_id": 9963,
+        "timestamp": "2022-04-29 04:01:06+00:00",
+        "id": "WvAl44yHg4",
+        "created_at": "2022-04-29T09:31:18.119000+05:30",
+        "updated_at": "2022-04-29T09:32:08.623000+05:30",
+        "cleaned_text_message": "banknifty good above @ 36615",
+        "output": [
+            {
+                "text_message": "banknifty good above @ 36615",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "BANKNIFTY GOOD",
+                "derivative": null,
+                "buy_price": [
+                    36615.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "TINPLATE looks good Above 426",
+        "text_message_id": 55007,
+        "timestamp": "2022-04-29 04:01:03+00:00",
+        "id": "AuPPIbwVoA",
+        "created_at": "2022-04-29T09:31:18.159000+05:30",
+        "updated_at": "2022-04-29T09:32:09.171000+05:30",
+        "cleaned_text_message": "tinplate looks good above 426",
+        "output": [
+            {
+                "text_message": "tinplate looks good above 426",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "TINPLATE",
+                "derivative": null,
+                "buy_price": [
+                    426.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:TINPLATE"
+            }
+        ]
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208582,
+        "timestamp": "2022-04-29 04:01:00+00:00",
+        "id": "HHTTt5HUR2",
+        "created_at": "2022-04-29T09:31:18.219000+05:30",
+        "updated_at": "2022-04-29T09:32:09.173000+05:30"
+    },
+    {
+        "channel_id": 1470229714,
+        "msg_author": "Banknifty_specials",
+        "msg_author_id": 1470229714,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Kotakbank Good Above @ 1790",
+        "text_message_id": 9964,
+        "timestamp": "2022-04-29 04:01:39+00:00",
+        "id": "pjvC0mAvLI",
+        "created_at": "2022-04-29T09:31:51.627000+05:30",
+        "updated_at": "2022-04-29T09:32:12.078000+05:30",
+        "cleaned_text_message": "kotakbank good above @ 1790",
+        "output": [
+            {
+                "text_message": "kotakbank good above @ 1790",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "KOTAKBANK GOOD",
+                "derivative": null,
+                "buy_price": [
+                    1790.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Intraday \n\nPel 2300 ce above 70 \n\nTarget : Open",
+        "text_message_id": 33477,
+        "timestamp": "2022-04-29 04:01:25+00:00",
+        "id": "iKeYIFd9MO",
+        "created_at": "2022-04-29T09:31:51.643000+05:30",
+        "updated_at": "2022-04-29T09:32:12.414000+05:30",
+        "cleaned_text_message": "intraday pel 2300 ce above 70 target open",
+        "output": [
+            {
+                "text_message": "intraday pel 2300 ce above 70 target open",
+                "call_type": null,
+                "strike_price": 2300,
+                "instrument": "PEL 2300 CE",
+                "derivative": "CALL",
+                "buy_price": [
+                    70.0
+                ],
+                "stop_loss": null,
+                "target": [
+                    "OPEN"
+                ],
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1195105033,
+        "msg_author": "nse_stocks_master",
+        "msg_author_id": 1195105033,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Intraday Buy call\n\nM&MFIN 185-186\n\nTarget \ud83c\udfaf 189\n\nSl 183",
+        "text_message_id": 1632,
+        "timestamp": "2022-04-29 04:03:00+00:00",
+        "id": "ddij4Y5F0W",
+        "created_at": "2022-04-29T09:33:20.227000+05:30",
+        "updated_at": "2022-04-29T09:33:20.776000+05:30",
+        "cleaned_text_message": "intraday buy call m&mfin 185-186 target 189 sl 183",
+        "output": [
+            {
+                "text_message": "intraday buy call m&mfin 185-186 target 189 sl 183",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "M&MFIN",
+                "derivative": null,
+                "buy_price": [
+                    185.0,
+                    186.0
+                ],
+                "stop_loss": [
+                    183.0
+                ],
+                "target": [
+                    189.0
+                ],
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "MHRIL Above 258",
+        "text_message_id": 55008,
+        "timestamp": "2022-04-29 04:03:30+00:00",
+        "id": "e7fILdDdI8",
+        "created_at": "2022-04-29T09:34:20.291000+05:30",
+        "updated_at": "2022-04-29T09:34:20.305000+05:30"
+    },
+    {
+        "channel_id": 1355795157,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "INDEX INTRADAY Level \n\nBANKNIFTY 36400 CE \ud83d\udd25 BUY@ 500 510\n\n\ud83c\udfafTarget 1 :  550\n\n\ud83c\udfafTarget 2 :  610\n\n\ud83c\udfafTarget 3 :  PAID\n\n\ud83d\udd25 Stoploss : PAID\n\nWait For Target \ud83c\udfaf With Proper Stoploss \ud83d\udd25",
+        "text_message_id": 21196,
+        "timestamp": "2022-04-29 04:04:19+00:00",
+        "id": "cKU9LLXYaV",
+        "created_at": "2022-04-29T09:34:20.311000+05:30",
+        "updated_at": "2022-04-29T09:35:20.848000+05:30",
+        "cleaned_text_message": "index intraday level banknifty 36400 ce buy@ 500 510 target 1 550 target 2 610 target 3 paid stoploss paid wait for target with proper stoploss",
+        "output": [
+            {
+                "text_message": "index intraday level banknifty 36400 ce buy@ 500 510 target 1 550 target 2 610 target 3 paid stoploss paid wait for target with proper stoploss",
+                "call_type": "BUY",
+                "strike_price": 36400,
+                "instrument": "BANKNIFTY 36400 CE",
+                "derivative": "CALL",
+                "buy_price": [
+                    500.0,
+                    510.0
+                ],
+                "stop_loss": [
+                    "PAID"
+                ],
+                "target": [
+                    550.0,
+                    610.0
+                ],
+                "timeframe": null,
+                "stock": null
+            }
+        ]
     }
 ]
