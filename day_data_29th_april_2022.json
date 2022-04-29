@@ -5453,5 +5453,1119 @@
         "id": "Z47N36iSZC",
         "created_at": "2022-04-29T12:03:07.554000+05:30",
         "updated_at": "2022-04-29T12:03:07.567000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "HUHTAMAKI BUY ABOVE 201\nSL 198\nTARGET 203-204-205-206",
+        "text_message_id": 2643,
+        "timestamp": "2022-04-29 06:36:41+00:00",
+        "id": "9qEZ5vVpIm",
+        "created_at": "2022-04-29T12:07:12.721000+05:30",
+        "updated_at": "2022-04-29T12:07:12.737000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2643,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c03610>",
+        "status": "PROCESSING",
+        "text_message": "STARTED FIRING UP \ud83d\ude80\ud83d\ude80",
+        "text_message_id": 2644,
+        "timestamp": "2022-04-29 06:37:10+00:00",
+        "id": "jopQZLyWQt",
+        "created_at": "2022-04-29T12:07:12.741000+05:30",
+        "updated_at": "2022-04-29T12:07:12.754000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 55061,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cebd90>",
+        "status": "PROCESSING",
+        "text_message": "STARTED FIRING UP \ud83d\ude80\ud83d\ude80",
+        "text_message_id": 55062,
+        "timestamp": "2022-04-29 06:36:59+00:00",
+        "id": "rM7hedO4FY",
+        "created_at": "2022-04-29T12:07:12.763000+05:30",
+        "updated_at": "2022-04-29T12:07:12.775000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udca5 Mega Offer is Back\ud83d\udca5\n 2 seats Booked last 3 seats left\n\n\ud83d\udc9a1 Month + 1 Month Free\ud83d\ude0d\n\ud83d\udc9a3 Months + 3 Months Free\ud83d\ude0d\n\nDon't think about premium fees, it will recover on 1st day of trading as u have seen my calls & level\u270d\ufe0f\n\nJoin today & subscribtion will count from Monday\ud83d\udc49 @Ayaanforhelp",
+        "text_message_id": 8492,
+        "timestamp": "2022-04-29 06:37:50+00:00",
+        "id": "GmGetOCmZe",
+        "created_at": "2022-04-29T12:08:05.290000+05:30",
+        "updated_at": "2022-04-29T12:08:05.309000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 8493,
+        "timestamp": "2022-04-29 06:37:51+00:00",
+        "id": "J0EBl38PzS",
+        "created_at": "2022-04-29T12:08:05.314000+05:30",
+        "updated_at": "2022-04-29T12:08:05.328000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "INTRA + SHORT TERM CALL IN 2 MINUTES ......",
+        "text_message_id": 35165,
+        "timestamp": "2022-04-29 06:38:03+00:00",
+        "id": "xq2ubdDZE7",
+        "created_at": "2022-04-29T12:08:05.342000+05:30",
+        "updated_at": "2022-04-29T12:08:05.355000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 55061,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c25d00>",
+        "status": "PROCESSING",
+        "text_message": "MADE A HIGH OF 203.55 SO FAR",
+        "text_message_id": 55063,
+        "timestamp": "2022-04-29 06:38:17+00:00",
+        "id": "dmYBdxJfZk",
+        "created_at": "2022-04-29T12:08:20.706000+05:30",
+        "updated_at": "2022-04-29T12:08:20.722000+05:30"
+    },
+    {
+        "channel_id": 1205797779,
+        "msg_author": "TradingEdge28april",
+        "msg_author_id": 1205797779,
+        "replied_to": 3563,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cfbc10>",
+        "status": "PROCESSING",
+        "text_message": "460 TO 650 \ud83d\udd25\n\n190 POINTS SURESHOT JACKPOT",
+        "text_message_id": 3582,
+        "timestamp": "2022-04-29 06:38:21+00:00",
+        "id": "cCbxL7flzW",
+        "created_at": "2022-04-29T12:08:22.781000+05:30",
+        "updated_at": "2022-04-29T12:08:22.795000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2643,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c56070>",
+        "status": "PROCESSING",
+        "text_message": "MADE A HIGH OF 203.55 SO FAR",
+        "text_message_id": 2645,
+        "timestamp": "2022-04-29 06:38:30+00:00",
+        "id": "dFMvxRCTBg",
+        "created_at": "2022-04-29T12:09:12.496000+05:30",
+        "updated_at": "2022-04-29T12:09:12.510000+05:30"
+    },
+    {
+        "channel_id": 1205797779,
+        "msg_author": "TradingEdge28april",
+        "msg_author_id": 1205797779,
+        "replied_to": 3556,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c15040>",
+        "status": "PROCESSING",
+        "text_message": "1360 TO 1395 \n\n19250\u20b9 PROFITS PER LOT \u2705",
+        "text_message_id": 3583,
+        "timestamp": "2022-04-29 06:38:54+00:00",
+        "id": "dWgwN0rcAZ",
+        "created_at": "2022-04-29T12:09:12.526000+05:30",
+        "updated_at": "2022-04-29T12:09:12.542000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "INTRA + SHORT TERM :  \n\nBUY APCOTEX @ 553-560, SL 540/45, TGT 592, 641 ( BUYER CIRCUIT ONCE TODAY )",
+        "text_message_id": 35166,
+        "timestamp": "2022-04-29 06:39:37+00:00",
+        "id": "reSnudp5UG",
+        "created_at": "2022-04-29T12:09:46.280000+05:30",
+        "updated_at": "2022-04-29T12:09:46.293000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208632,
+        "timestamp": "2022-04-29 06:41:15+00:00",
+        "id": "4JupByP9Bi",
+        "created_at": "2022-04-29T12:11:22.794000+05:30",
+        "updated_at": "2022-04-29T12:11:22.810000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcc8HURRY UP...!!! LAST 4 SEATS LEFT\n\n\ud83d\udcc8REGISTRATIONS FOR THE APRIL BATCH OF MASTER TRADER COURSE WILL BE CLOSED AFTER 30th APRIL 2022\n\n\u2705CONTACT STOCKPRO-TEAM NOW AND JOIN TODAY MASTER TRADER COURSE\n\n\ud83d\udccaCall StockPro-Team At +91 7447438877 / +91 9354510568\n\nWhatsapp: https://wa.me/919354510568",
+        "text_message_id": 55064,
+        "timestamp": "2022-04-29 06:41:23+00:00",
+        "id": "BoUV7IfRF5",
+        "created_at": "2022-04-29T12:11:25.305000+05:30",
+        "updated_at": "2022-04-29T12:11:25.319000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 55065,
+        "timestamp": "2022-04-29 06:41:24+00:00",
+        "id": "MS01YeRINx",
+        "created_at": "2022-04-29T12:11:25.325000+05:30",
+        "updated_at": "2022-04-29T12:11:25.342000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208633,
+        "timestamp": "2022-04-29 06:41:41+00:00",
+        "id": "uqnRfiOjjn",
+        "created_at": "2022-04-29T12:12:00.985000+05:30",
+        "updated_at": "2022-04-29T12:12:00.998000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208634,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "pyqHkFiLE6",
+        "created_at": "2022-04-29T12:15:14.173000+05:30",
+        "updated_at": "2022-04-29T12:15:14.186000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208635,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "12sD0P8F0q",
+        "created_at": "2022-04-29T12:15:14.192000+05:30",
+        "updated_at": "2022-04-29T12:15:14.207000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208636,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "oXsr3dt3Kb",
+        "created_at": "2022-04-29T12:15:14.211000+05:30",
+        "updated_at": "2022-04-29T12:15:14.223000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208637,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "uAW5AAYCnl",
+        "created_at": "2022-04-29T12:15:14.229000+05:30",
+        "updated_at": "2022-04-29T12:15:14.239000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208638,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "pytXEaQzLx",
+        "created_at": "2022-04-29T12:15:14.244000+05:30",
+        "updated_at": "2022-04-29T12:15:14.255000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208639,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "jipUUDAC8x",
+        "created_at": "2022-04-29T12:15:14.260000+05:30",
+        "updated_at": "2022-04-29T12:15:14.272000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208640,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "qGjWSv0ep6",
+        "created_at": "2022-04-29T12:15:14.279000+05:30",
+        "updated_at": "2022-04-29T12:15:14.292000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208642,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "joLpwNzdvc",
+        "created_at": "2022-04-29T12:15:14.296000+05:30",
+        "updated_at": "2022-04-29T12:15:14.309000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208643,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "Ml7ubApqzY",
+        "created_at": "2022-04-29T12:15:14.313000+05:30",
+        "updated_at": "2022-04-29T12:15:14.325000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208644,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "hkYIh8MQYZ",
+        "created_at": "2022-04-29T12:15:14.328000+05:30",
+        "updated_at": "2022-04-29T12:15:14.339000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208641,
+        "timestamp": "2022-04-29 06:45:10+00:00",
+        "id": "xhe16VJU2U",
+        "created_at": "2022-04-29T12:15:14.343000+05:30",
+        "updated_at": "2022-04-29T12:15:14.354000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY HINDALCO FUT @ 495, SL 493/94, TGT 500-510\n\nHOS :  HINDALCO TO BE INCLUDED IN MSCI INDEX.",
+        "text_message_id": 35167,
+        "timestamp": "2022-04-29 06:45:19+00:00",
+        "id": "4cuyL4ML7Z",
+        "created_at": "2022-04-29T12:15:22.894000+05:30",
+        "updated_at": "2022-04-29T12:15:33.548000+05:30",
+        "cleaned_text_message": "buy hindalco fut @ 495, sl 493/94, tgt 500-510 hos hindalco to be included in msci index.",
+        "output": [
+            {
+                "text_message": "buy hindalco fut @ 495, sl 493/94, tgt 500-510 hos hindalco to be included in msci index.",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "HINDALCO FUT",
+                "derivative": "FUT",
+                "buy_price": [
+                    495.0
+                ],
+                "stop_loss": [
+                    493.0,
+                    494.0
+                ],
+                "target": [
+                    500.0,
+                    510.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:HINDALCO"
+            },
+            {
+                "text_message": "buy hindalco fut @ 495, sl 493/94, tgt 500-510 hos hindalco to be included in msci index.",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "HOS HINDALCO TO BE INCLUDED IN MSCI",
+                "derivative": null,
+                "buy_price": "CMP",
+                "stop_loss": "Personal Preference",
+                "target": "Personal Preference",
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": 8327,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c21490>",
+        "status": "PROCESSING",
+        "text_message": "Last 3 SEATS",
+        "text_message_id": 8328,
+        "timestamp": "2022-04-29 06:45:57+00:00",
+        "id": "uRJzopk2hx",
+        "created_at": "2022-04-29T12:16:06.918000+05:30",
+        "updated_at": "2022-04-29T12:16:06.932000+05:30"
+    },
+    {
+        "channel_id": 1405644590,
+        "msg_author": "NiftyFnOofficial",
+        "msg_author_id": 1405644590,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\ude07\ud83d\ude0d",
+        "text_message_id": 8329,
+        "timestamp": "2022-04-29 06:46:00+00:00",
+        "id": "v1YLeZjuzU",
+        "created_at": "2022-04-29T12:16:06.938000+05:30",
+        "updated_at": "2022-04-29T12:16:06.951000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208645,
+        "timestamp": "2022-04-29 06:47:21+00:00",
+        "id": "iOMGESrzYT",
+        "created_at": "2022-04-29T12:17:22.928000+05:30",
+        "updated_at": "2022-04-29T12:17:22.940000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": 33474,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c197c0>",
+        "status": "PROCESSING",
+        "text_message": "Hindunilvr 2275\u2764\ufe0f\u2705",
+        "text_message_id": 33494,
+        "timestamp": "2022-04-29 06:49:53+00:00",
+        "id": "YU7tvsIgTi",
+        "created_at": "2022-04-29T12:20:25.603000+05:30",
+        "updated_at": "2022-04-29T12:20:25.617000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcc8IN THIS VIDEO ON 5th FEB 2022 - WE DISCUSSED 2 STOCKS APCOTEXIND, XPROINDIA\n\n\ud83d\udcc8APCOTEXIND WE RECOMMENDED FOR A BUY ABOVE 387\n\n\ud83d\udcc8TODAY IT MADE A HIGH OF 576\n\n\ud83d\udcc8STOCK HAS DELIVERED A POTENTIAL 51.68% RETURN IN 2-3 MONTHS\n\n\n\ud83d\udccaXPROINDIA FROM 1115 TO MADE A HIGH OF 1670 SO FAR\n\n\ud83d\udccaSTOCK HAS DELIVERED A POTENTIAL 49.78% RETURN IN 2-3 MONTHS\n\nhttps://www.youtube.com/watch?v=fb1TN7yxgoQ&t=827s",
+        "text_message_id": 55066,
+        "timestamp": "2022-04-29 06:58:26+00:00",
+        "id": "rikkFbOX4F",
+        "created_at": "2022-04-29T12:28:43.695000+05:30",
+        "updated_at": "2022-04-29T12:28:43.706000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": 33487,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c9caf0>",
+        "status": "PROCESSING",
+        "text_message": "2022\u2764\ufe0f\u2705",
+        "text_message_id": 33495,
+        "timestamp": "2022-04-29 07:00:46+00:00",
+        "id": "diFX9l9nS3",
+        "created_at": "2022-04-29T12:31:17.959000+05:30",
+        "updated_at": "2022-04-29T12:31:17.972000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Stock 8% Up\ud83d\udd25\ud83d\udcb0",
+        "text_message_id": 33496,
+        "timestamp": "2022-04-29 07:01:01+00:00",
+        "id": "RYMmFlZ2Fr",
+        "created_at": "2022-04-29T12:31:17.979000+05:30",
+        "updated_at": "2022-04-29T12:31:17.992000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "MRPL Looks good above 75",
+        "text_message_id": 55067,
+        "timestamp": "2022-04-29 07:09:05+00:00",
+        "id": "4lqh5wKX0z",
+        "created_at": "2022-04-29T12:39:26.083000+05:30",
+        "updated_at": "2022-04-29T12:39:26.494000+05:30",
+        "cleaned_text_message": "mrpl looks good above 75",
+        "output": [
+            {
+                "text_message": "mrpl looks good above 75",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "MRPL",
+                "derivative": null,
+                "buy_price": [
+                    75.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:MRPL"
+            }
+        ]
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": 33474,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c1f1f0>",
+        "status": "PROCESSING",
+        "text_message": "Hindunilvr 2289\u2764\ufe0f\u2705",
+        "text_message_id": 33497,
+        "timestamp": "2022-04-29 07:08:51+00:00",
+        "id": "iyWZVagUIN",
+        "created_at": "2022-04-29T12:39:26.119000+05:30",
+        "updated_at": "2022-04-29T12:39:26.497000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcc8HURRY UP...!!! LAST 4 SEATS LEFT\n\n\ud83d\udcc8REGISTRATIONS FOR THE APRIL BATCH OF MASTER TRADER COURSE WILL BE CLOSED AFTER 30th APRIL 2022\n\n\u2705CONTACT STOCKPRO-TEAM NOW AND JOIN TODAY MASTER TRADER COURSE\n\n\ud83d\udccaCall StockPro-Team At +91 7447438877 / +91 9354510568\n\nWhatsapp: https://wa.me/919354510568",
+        "text_message_id": 55068,
+        "timestamp": "2022-04-29 07:10:15+00:00",
+        "id": "PxbKZafjNi",
+        "created_at": "2022-04-29T12:40:23.583000+05:30",
+        "updated_at": "2022-04-29T12:40:23.596000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "VADA PAV IN 30 SECONDS ....",
+        "text_message_id": 35168,
+        "timestamp": "2022-04-29 07:10:15+00:00",
+        "id": "JQ742F2bou",
+        "created_at": "2022-04-29T12:40:23.605000+05:30",
+        "updated_at": "2022-04-29T12:40:23.618000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "INTRA DAY BUY SHANTIGEAR @ 223-225, SL 220, TGT 235, 247\n\n( POSITIVE DEVELOPMENT. ANNOUCEMENT IN FEW DAYS )",
+        "text_message_id": 35169,
+        "timestamp": "2022-04-29 07:10:48+00:00",
+        "id": "7jCg1Mo5rh",
+        "created_at": "2022-04-29T12:41:23.554000+05:30",
+        "updated_at": "2022-04-29T12:41:24.479000+05:30",
+        "cleaned_text_message": "intra day buy shantigear @ 223-225, sl 220, tgt 235, 247 positive development. annoucement in few days",
+        "output": [
+            {
+                "text_message": "intra day buy shantigear @ 223-225, sl 220, tgt 235, 247 positive development. annoucement in few days",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "SHANTIGEAR",
+                "derivative": null,
+                "buy_price": [
+                    223.0,
+                    225.0
+                ],
+                "stop_loss": [
+                    220.0
+                ],
+                "target": [
+                    235.0,
+                    247.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:SHANTIGEAR"
+            }
+        ]
+    },
+    {
+        "channel_id": 1213433107,
+        "msg_author": "wealthciti",
+        "msg_author_id": 1213433107,
+        "replied_to": 2535,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c145e0>",
+        "status": "PROCESSING",
+        "text_message": "High Made 1852 \ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\udca5\n\n1st Target Achieved \ud83d\ude0e",
+        "text_message_id": 2536,
+        "timestamp": "2022-04-29 07:10:34+00:00",
+        "id": "kFc3JehWFI",
+        "created_at": "2022-04-29T12:41:23.582000+05:30",
+        "updated_at": "2022-04-29T12:41:24.482000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 55067,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c28f10>",
+        "status": "PROCESSING",
+        "text_message": "KEEP IT ON RADAR",
+        "text_message_id": 55069,
+        "timestamp": "2022-04-29 07:11:50+00:00",
+        "id": "R7wjnOvCgl",
+        "created_at": "2022-04-29T12:42:26.151000+05:30",
+        "updated_at": "2022-04-29T12:42:26.163000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "MRPL BUY ABOVE 75\nSL 74\nTARGET 76-77-78",
+        "text_message_id": 2646,
+        "timestamp": "2022-04-29 07:12:30+00:00",
+        "id": "Z28uA45QQe",
+        "created_at": "2022-04-29T12:43:26.197000+05:30",
+        "updated_at": "2022-04-29T12:43:26.210000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2646,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c00d00>",
+        "status": "PROCESSING",
+        "text_message": "KEEP WATCHING FOR A BREAKOUT",
+        "text_message_id": 2647,
+        "timestamp": "2022-04-29 07:12:42+00:00",
+        "id": "2p0zMA9dtU",
+        "created_at": "2022-04-29T12:43:26.213000+05:30",
+        "updated_at": "2022-04-29T12:43:26.225000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 55020,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c18400>",
+        "status": "PROCESSING",
+        "text_message": "SHANTHI gears at 226.5",
+        "text_message_id": 55070,
+        "timestamp": "2022-04-29 07:14:00+00:00",
+        "id": "gCEGIx4jrp",
+        "created_at": "2022-04-29T12:44:26.259000+05:30",
+        "updated_at": "2022-04-29T12:44:26.272000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 55067,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c14940>",
+        "status": "PROCESSING",
+        "text_message": "KEEP WATCHING FOR A BREAKOUT ABOVE 75",
+        "text_message_id": 55071,
+        "timestamp": "2022-04-29 07:14:24+00:00",
+        "id": "gjDdnmlPAs",
+        "created_at": "2022-04-29T12:44:26.279000+05:30",
+        "updated_at": "2022-04-29T12:44:26.291000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2646,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c17dc0>",
+        "status": "PROCESSING",
+        "text_message": "KEEP WATCHING FOR A BREAKOUT ABOVE 75",
+        "text_message_id": 2648,
+        "timestamp": "2022-04-29 07:14:36+00:00",
+        "id": "cuhIuHXQOD",
+        "created_at": "2022-04-29T12:45:26.303000+05:30",
+        "updated_at": "2022-04-29T12:45:26.315000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY JAI CORP @ 145-147, SL 144, TGT 160, 175\n\nBUY RIIL @ 1140-50, SL 1130, TGT 1238, 1320",
+        "text_message_id": 35170,
+        "timestamp": "2022-04-29 07:20:33+00:00",
+        "id": "l6nce7VuzM",
+        "created_at": "2022-04-29T12:51:01.396000+05:30",
+        "updated_at": "2022-04-29T12:51:02.540000+05:30",
+        "cleaned_text_message": "buy jai corp @ 145-147, sl 144, tgt 160, 175 buy riil @ 1140-50, sl 1130, tgt 1238, 1320",
+        "output": [
+            {
+                "text_message": "buy jai corp @ 145-147, sl 144, tgt 160, 175 buy riil @ 1140-50, sl 1130, tgt 1238, 1320",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "JAI CORP",
+                "derivative": null,
+                "buy_price": [
+                    145.0,
+                    147.0
+                ],
+                "stop_loss": [
+                    144.0
+                ],
+                "target": [
+                    160.0,
+                    175.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:JAICORPLTD"
+            },
+            {
+                "text_message": "buy jai corp @ 145-147, sl 144, tgt 160, 175 buy riil @ 1140-50, sl 1130, tgt 1238, 1320",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "RIIL",
+                "derivative": null,
+                "buy_price": [
+                    1140.0,
+                    1150.0
+                ],
+                "stop_loss": [
+                    1130.0
+                ],
+                "target": [
+                    1238.0,
+                    1320.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:RIIL"
+            }
+        ]
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 2649,
+        "timestamp": "2022-04-29 07:22:39+00:00",
+        "id": "AKC6gd5Exc",
+        "created_at": "2022-04-29T12:53:26.540000+05:30",
+        "updated_at": "2022-04-29T12:53:26.553000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2646,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c002e0>",
+        "status": "PROCESSING",
+        "text_message": "GET READY FOR MRPL",
+        "text_message_id": 2650,
+        "timestamp": "2022-04-29 07:24:32+00:00",
+        "id": "9N0ony6s5x",
+        "created_at": "2022-04-29T12:54:50.737000+05:30",
+        "updated_at": "2022-04-29T12:54:50.750000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcab",
+        "text_message_id": 35171,
+        "timestamp": "2022-04-29 07:24:36+00:00",
+        "id": "rWdNzTadrG",
+        "created_at": "2022-04-29T12:54:50.757000+05:30",
+        "updated_at": "2022-04-29T12:54:50.768000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "VADAPAV",
+        "text_message_id": 35172,
+        "timestamp": "2022-04-29 07:24:38+00:00",
+        "id": "hDYTFU4VvH",
+        "created_at": "2022-04-29T12:54:50.772000+05:30",
+        "updated_at": "2022-04-29T12:54:50.783000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY BF UTILITY @ 392-95, SL 390, TGT 410, 428, 466",
+        "text_message_id": 35173,
+        "timestamp": "2022-04-29 07:24:53+00:00",
+        "id": "ILVVGFJSTl",
+        "created_at": "2022-04-29T12:55:01.708000+05:30",
+        "updated_at": "2022-04-29T12:55:02.202000+05:30",
+        "cleaned_text_message": "buy bf utility @ 392-95, sl 390, tgt 410, 428, 466",
+        "output": [
+            {
+                "text_message": "buy bf utility @ 392-95, sl 390, tgt 410, 428, 466",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "BF UTILITY",
+                "derivative": null,
+                "buy_price": [
+                    392.0,
+                    395.0
+                ],
+                "stop_loss": [
+                    390.0
+                ],
+                "target": [
+                    410.0,
+                    428.0,
+                    466.0
+                ],
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": 33361,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c25bb0>",
+        "status": "PROCESSING",
+        "text_message": "Apcotexind 590 High\u2764\ufe0f\u2705\n10% Return In Just 5 days\ud83d\udd25",
+        "text_message_id": 33498,
+        "timestamp": "2022-04-29 07:26:01+00:00",
+        "id": "gBxBCg1GEe",
+        "created_at": "2022-04-29T12:56:23.830000+05:30",
+        "updated_at": "2022-04-29T12:56:23.843000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udc49\ud83d\udc49  ALL NEW MEMBERS : PLEASE READ PINNED MSG ( AT TOP )  ONCE",
+        "text_message_id": 35174,
+        "timestamp": "2022-04-29 07:26:20+00:00",
+        "id": "6XKsbTIVWk",
+        "created_at": "2022-04-29T12:56:23.849000+05:30",
+        "updated_at": "2022-04-29T12:56:23.863000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "AGR BUY RIIL ABOVE  1225, SL 1210/15, TGT BUYER CIRCUIT @ 1320",
+        "text_message_id": 35175,
+        "timestamp": "2022-04-29 07:26:54+00:00",
+        "id": "ejO7n6YEEF",
+        "created_at": "2022-04-29T12:56:58.563000+05:30",
+        "updated_at": "2022-04-29T12:57:13.160000+05:30",
+        "cleaned_text_message": "agr buy riil above 1225, sl 1210/15, tgt buyer circuit @ 1320",
+        "output": [
+            {
+                "text_message": "agr buy riil above 1225, sl 1210/15, tgt buyer circuit @ 1320",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "AGR",
+                "derivative": null,
+                "buy_price": [
+                    1225.0
+                ],
+                "stop_loss": [
+                    1210.0,
+                    1215.0
+                ],
+                "target": null,
+                "timeframe": null,
+                "stock": null
+            },
+            {
+                "text_message": "agr buy riil above 1225, sl 1210/15, tgt buyer circuit @ 1320",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "RIIL",
+                "derivative": null,
+                "buy_price": [
+                    1320.0
+                ],
+                "stop_loss": "Personal Preference",
+                "target": "Personal Preference",
+                "timeframe": null,
+                "stock": "NSE:RIIL"
+            }
+        ]
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "AGR BUY JAI CORP ABOVE 157, SL 155, TGT BUYER CIRCUIT @ 175",
+        "text_message_id": 35176,
+        "timestamp": "2022-04-29 07:27:09+00:00",
+        "id": "CXqhfXYO1X",
+        "created_at": "2022-04-29T12:57:18.810000+05:30",
+        "updated_at": "2022-04-29T12:57:19.256000+05:30",
+        "cleaned_text_message": "agr buy jai corp above 157, sl 155, tgt buyer circuit @ 175",
+        "output": [
+            {
+                "text_message": "agr buy jai corp above 157, sl 155, tgt buyer circuit @ 175",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "JAI CORP",
+                "derivative": null,
+                "buy_price": [
+                    157.0
+                ],
+                "stop_loss": [
+                    155.0
+                ],
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:JAICORPLTD"
+            }
+        ]
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcab",
+        "text_message_id": 35177,
+        "timestamp": "2022-04-29 07:29:27+00:00",
+        "id": "np256y2gqV",
+        "created_at": "2022-04-29T12:59:30.549000+05:30",
+        "updated_at": "2022-04-29T12:59:30.560000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY ALOK IND WITH STRICT 25/50 PAISA SL",
+        "text_message_id": 35178,
+        "timestamp": "2022-04-29 07:29:40+00:00",
+        "id": "8tWZwKmX3P",
+        "created_at": "2022-04-29T12:59:44.090000+05:30",
+        "updated_at": "2022-04-29T12:59:44.940000+05:30",
+        "cleaned_text_message": "buy alok ind with strict 25/50 paisa sl",
+        "output": [
+            {
+                "text_message": "buy alok ind with strict 25/50 paisa sl",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "ALOK IND",
+                "derivative": null,
+                "buy_price": null,
+                "stop_loss": [
+                    1.6499999999999986,
+                    -23.35
+                ],
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:ALOKINDS"
+            }
+        ]
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 55067,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c15400>",
+        "status": "PROCESSING",
+        "text_message": "GET READY FOR A BREAKOUT IN MRPL",
+        "text_message_id": 55072,
+        "timestamp": "2022-04-29 07:30:32+00:00",
+        "id": "WoNtgXxpGz",
+        "created_at": "2022-04-29T13:01:26.818000+05:30",
+        "updated_at": "2022-04-29T13:01:26.831000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2646,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c0c160>",
+        "status": "PROCESSING",
+        "text_message": "GET READY FOR A BREAKOUT IN MRPL",
+        "text_message_id": 2651,
+        "timestamp": "2022-04-29 07:36:01+00:00",
+        "id": "Xg1Koj0s1D",
+        "created_at": "2022-04-29T13:06:27.067000+05:30",
+        "updated_at": "2022-04-29T13:06:27.080000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcab",
+        "text_message_id": 35179,
+        "timestamp": "2022-04-29 07:38:00+00:00",
+        "id": "KE5wo0DWYR",
+        "created_at": "2022-04-29T13:08:02.646000+05:30",
+        "updated_at": "2022-04-29T13:08:02.661000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY VINYLINDIA @ 303-308, SL 300, TGT BUYER CIRCUIT",
+        "text_message_id": 35180,
+        "timestamp": "2022-04-29 07:38:04+00:00",
+        "id": "D73I7o59qP",
+        "created_at": "2022-04-29T13:08:23.936000+05:30",
+        "updated_at": "2022-04-29T13:08:24.646000+05:30",
+        "cleaned_text_message": "buy vinylindia @ 303-308, sl 300, tgt buyer circuit",
+        "output": [
+            {
+                "text_message": "buy vinylindia @ 303-308, sl 300, tgt buyer circuit",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "VINYLINDIA",
+                "derivative": null,
+                "buy_price": [
+                    303.0,
+                    308.0
+                ],
+                "stop_loss": [
+                    300.0
+                ],
+                "target": null,
+                "timeframe": null,
+                "stock": "NSE:VINYLINDIA"
+            }
+        ]
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2646,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c14d90>",
+        "status": "PROCESSING",
+        "text_message": "STARTED FIRING UP\ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "text_message_id": 2652,
+        "timestamp": "2022-04-29 07:42:23+00:00",
+        "id": "rtQuSFCrZN",
+        "created_at": "2022-04-29T13:12:27.261000+05:30",
+        "updated_at": "2022-04-29T13:12:27.273000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 55067,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c3dd00>",
+        "status": "PROCESSING",
+        "text_message": "STARTED FIRING UP\ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "text_message_id": 55073,
+        "timestamp": "2022-04-29 07:42:13+00:00",
+        "id": "lugPHbHV5A",
+        "created_at": "2022-04-29T13:12:27.280000+05:30",
+        "updated_at": "2022-04-29T13:12:27.291000+05:30"
+    },
+    {
+        "channel_id": 1387893163,
+        "msg_author": null,
+        "msg_author_id": 937795490,
+        "replied_to": 208614,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c286a0>",
+        "status": "PROCESSING",
+        "text_message": "",
+        "text_message_id": 208646,
+        "timestamp": "2022-04-29 07:44:33+00:00",
+        "id": "exJKRTjUzd",
+        "created_at": "2022-04-29T13:14:44.645000+05:30",
+        "updated_at": "2022-04-29T13:14:44.661000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcc8HURRY UP...!!! LAST 4 SEATS LEFT\n\n\ud83d\udcc8REGISTRATIONS FOR THE APRIL BATCH OF MASTER TRADER COURSE WILL BE CLOSED AFTER 30th APRIL 2022\n\n\u2705CONTACT STOCKPRO-TEAM NOW AND JOIN TODAY MASTER TRADER COURSE\n\n\ud83d\udccaCall StockPro-Team At +91 7447438877 / +91 9354510568\n\nWhatsapp: https://wa.me/919354510568",
+        "text_message_id": 55074,
+        "timestamp": "2022-04-29 07:44:47+00:00",
+        "id": "x0knDHpSEO",
+        "created_at": "2022-04-29T13:15:15.112000+05:30",
+        "updated_at": "2022-04-29T13:15:15.126000+05:30"
     }
 ]
