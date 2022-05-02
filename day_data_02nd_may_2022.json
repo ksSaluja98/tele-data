@@ -3418,5 +3418,296 @@
         "id": "FiOFtJnR7Q",
         "created_at": "2022-05-02T11:03:02.211000+05:30",
         "updated_at": "2022-05-02T11:03:02.222000+05:30"
+    },
+    {
+        "channel_id": 1355795157,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 21207,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5ab2160>",
+        "status": "PROCESSING",
+        "text_message": "MADE HIGH OF 589.30. TARGET 2 ALMOST DONE. PLEASE BOOK PROFIT AND ENJOY YOUR DAY",
+        "text_message_id": 21213,
+        "timestamp": "2022-05-02 05:35:46+00:00",
+        "id": "zryPDuzMn2",
+        "created_at": "2022-05-02T11:06:02.268000+05:30",
+        "updated_at": "2022-05-02T11:06:02.283000+05:30"
+    },
+    {
+        "channel_id": 1195105033,
+        "msg_author": "nse_stocks_master",
+        "msg_author_id": 1195105033,
+        "replied_to": 1638,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5e73ca0>",
+        "status": "PROCESSING",
+        "text_message": "INDHOTEL 260 to 265 \ud83d\udd25\ud83d\ude80\ud83c\udfaf",
+        "text_message_id": 1640,
+        "timestamp": "2022-05-02 05:44:01+00:00",
+        "id": "Z9eYXZcm58",
+        "created_at": "2022-05-02T11:14:02.465000+05:30",
+        "updated_at": "2022-05-02T11:14:02.478000+05:30"
+    },
+    {
+        "channel_id": 1372796216,
+        "msg_author": "ushasanalysis",
+        "msg_author_id": 1372796216,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY CANFINHOME MAY FUTURES\n\nCMP 637\n\nTARGET 643,650,660+\n\nSTOP LOSS 620",
+        "text_message_id": 11935,
+        "timestamp": "2022-05-02 05:55:38+00:00",
+        "id": "rdDUTM8RNc",
+        "created_at": "2022-05-02T11:25:51.356000+05:30",
+        "updated_at": "2022-05-02T11:25:52.431000+05:30",
+        "cleaned_text_message": "buy canfinhome may futures cmp 637 target 643,650,660 stop loss 620",
+        "output": [
+            {
+                "text_message": "buy canfinhome may futures cmp 637 target 643,650,660 stop loss 620",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "CANFINHOME MAY FUTURES",
+                "derivative": "FUT",
+                "buy_price": null,
+                "stop_loss": [
+                    16.200000000000045
+                ],
+                "target": [
+                    "643,650,660"
+                ],
+                "timeframe": null,
+                "stock": "NSE:CANFINHOME"
+            }
+        ]
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "\ud83d\udcab",
+        "text_message_id": 35222,
+        "timestamp": "2022-05-02 06:07:16+00:00",
+        "id": "RaOK3PBfX8",
+        "created_at": "2022-05-02T11:37:26.727000+05:30",
+        "updated_at": "2022-05-02T11:37:26.738000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "CHAKRI  STOCK OPTIONS CALL ....",
+        "text_message_id": 35223,
+        "timestamp": "2022-05-02 06:07:26+00:00",
+        "id": "9J9B4Jelb0",
+        "created_at": "2022-05-02T11:38:03.216000+05:30",
+        "updated_at": "2022-05-02T11:38:03.229000+05:30"
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "BUY JUBL FOOD 520 CALL @ 43-46, SL 40, TGT 60-75\n\nBUY JUBL FOOD FUT WITH 4-6 RS SL FOR 20-35 RS GAIN",
+        "text_message_id": 35224,
+        "timestamp": "2022-05-02 06:09:23+00:00",
+        "id": "YoLbmqvr7d",
+        "created_at": "2022-05-02T11:39:34.057000+05:30",
+        "updated_at": "2022-05-02T11:39:34.069000+05:30"
+    },
+    {
+        "channel_id": 1303616692,
+        "msg_author": "Geeksofnifty",
+        "msg_author_id": 1303616692,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY SRTRANSFIN 1240CE ABOVE 52\nSL 40\nTGT 60-72-88+",
+        "text_message_id": 22298,
+        "timestamp": "2022-05-02 06:12:30+00:00",
+        "id": "Lzbp5PxBiw",
+        "created_at": "2022-05-02T11:43:03.440000+05:30",
+        "updated_at": "2022-05-02T11:43:03.885000+05:30",
+        "cleaned_text_message": "buy srtransfin 1240ce above 52 sl 40 tgt 60-72-88",
+        "output": [
+            {
+                "text_message": "buy srtransfin 1240ce above 52 sl 40 tgt 60-72-88",
+                "call_type": "BUY",
+                "strike_price": 1240,
+                "instrument": "SRTRANSFIN 1240CE",
+                "derivative": "CALL",
+                "buy_price": [
+                    52.0
+                ],
+                "stop_loss": [
+                    40.0
+                ],
+                "target": [
+                    60.0,
+                    72.0,
+                    88.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:SRTRANSFIN"
+            }
+        ]
+    },
+    {
+        "channel_id": 1289118315,
+        "msg_author": "PATELWEALTH",
+        "msg_author_id": 1289118315,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "BUY RIIL @ 1125-30, SL 1115/20, TGT 1188, 1255, 1327\n\nBUY JAI CORP @ 140-42, SL 139, TGT 150, 162, 171",
+        "text_message_id": 35225,
+        "timestamp": "2022-05-02 06:16:11+00:00",
+        "id": "8vO2FxFmHx",
+        "created_at": "2022-05-02T11:46:13.594000+05:30",
+        "updated_at": "2022-05-02T11:46:14.528000+05:30",
+        "cleaned_text_message": "buy riil @ 1125-30, sl 1115/20, tgt 1188, 1255, 1327 buy jai corp @ 140-42, sl 139, tgt 150, 162, 171",
+        "output": [
+            {
+                "text_message": "buy riil @ 1125-30, sl 1115/20, tgt 1188, 1255, 1327 buy jai corp @ 140-42, sl 139, tgt 150, 162, 171",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "RIIL",
+                "derivative": null,
+                "buy_price": [
+                    1125.0,
+                    1130.0
+                ],
+                "stop_loss": [
+                    1115.0,
+                    1120.0
+                ],
+                "target": [
+                    1188.0,
+                    1255.0,
+                    1327.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:RIIL"
+            },
+            {
+                "text_message": "buy riil @ 1125-30, sl 1115/20, tgt 1188, 1255, 1327 buy jai corp @ 140-42, sl 139, tgt 150, 162, 171",
+                "call_type": "BUY",
+                "strike_price": null,
+                "instrument": "JAI CORP",
+                "derivative": null,
+                "buy_price": [
+                    140.0,
+                    142.0
+                ],
+                "stop_loss": [
+                    139.0
+                ],
+                "target": [
+                    150.0,
+                    162.0,
+                    171.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:JAICORPLTD"
+            }
+        ]
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "https://www.instagram.com/p/CdC41VSL9oO/?utm_source=ig_web_copy_link",
+        "text_message_id": 2675,
+        "timestamp": "2022-05-02 06:18:25+00:00",
+        "id": "lgqxEZfGSh",
+        "created_at": "2022-05-02T11:49:03.720000+05:30",
+        "updated_at": "2022-05-02T11:49:03.731000+05:30"
+    },
+    {
+        "channel_id": 1485027884,
+        "msg_author": "trading_master_s",
+        "msg_author_id": 1485027884,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Trail Call\n\nPOWERGRID 230 CE now @ 6.75 , SL. 5. 40",
+        "text_message_id": 7578,
+        "timestamp": "2022-05-02 06:24:11+00:00",
+        "id": "oZh54ryUPa",
+        "created_at": "2022-05-02T11:55:04.107000+05:30",
+        "updated_at": "2022-05-02T11:55:04.125000+05:30"
+    },
+    {
+        "channel_id": 1372796216,
+        "msg_author": "ushasanalysis",
+        "msg_author_id": 1372796216,
+        "replied_to": 11932,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5c39bb0>",
+        "status": "SUCCESS",
+        "text_message": "RELIANCE MAY FUTURES\n\nBLASTED AT 2807\ud83d\udc4d\ud83d\udc4d",
+        "text_message_id": 11936,
+        "timestamp": "2022-05-02 06:32:36+00:00",
+        "id": "3QskNwpsfe",
+        "created_at": "2022-05-02T12:03:04.408000+05:30",
+        "updated_at": "2022-05-02T12:03:24.605000+05:30",
+        "cleaned_text_message": "reliance may futures blasted at 2807",
+        "output": [
+            {
+                "text_message": "reliance may futures blasted at 2807",
+                "call_type": null,
+                "strike_price": null,
+                "instrument": "RELIANCE MAY FUTURES BLASTED",
+                "derivative": "FUT",
+                "buy_price": [
+                    2807.0
+                ],
+                "stop_loss": null,
+                "target": null,
+                "timeframe": null,
+                "stock": null
+            }
+        ]
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "TECHNOE BUY ABOVE 299\nSL 297\nTARGET 301-303-305-306-308",
+        "text_message_id": 2676,
+        "timestamp": "2022-05-02 06:36:19+00:00",
+        "id": "J1nI3MMxa7",
+        "created_at": "2022-05-02T12:06:46.634000+05:30",
+        "updated_at": "2022-05-02T12:06:46.645000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "TECHNOE BUY ABOVE 299\nSL 297\nTARGET 301-303-305-306-308",
+        "text_message_id": 55125,
+        "timestamp": "2022-05-02 06:36:23+00:00",
+        "id": "KGomHeb428",
+        "created_at": "2022-05-02T12:06:46.655000+05:30",
+        "updated_at": "2022-05-02T12:06:46.668000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2676,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5a8f430>",
+        "status": "PROCESSING",
+        "text_message": "\ud83d\ude80\ud83d\ude80\ud83d\ude80BLASTING UP",
+        "text_message_id": 2677,
+        "timestamp": "2022-05-02 06:37:00+00:00",
+        "id": "eCHZ0zszxg",
+        "created_at": "2022-05-02T12:07:04.501000+05:30",
+        "updated_at": "2022-05-02T12:07:04.513000+05:30"
     }
 ]
