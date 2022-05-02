@@ -3224,5 +3224,199 @@
         "id": "U5LBqJGc0Y",
         "created_at": "2022-05-02T10:39:12.610000+05:30",
         "updated_at": "2022-05-02T10:39:12.623000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2671,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5cac670>",
+        "status": "PROCESSING",
+        "text_message": "MADE A HIGH OF 552\ud83d\ude80\ud83d\ude80",
+        "text_message_id": 2673,
+        "timestamp": "2022-05-02 05:13:54+00:00",
+        "id": "e8cnDrBrMD",
+        "created_at": "2022-05-02T10:44:01.549000+05:30",
+        "updated_at": "2022-05-02T10:44:01.563000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 55121,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5a8f790>",
+        "status": "PROCESSING",
+        "text_message": "MADE A HIGH OF 552\ud83d\ude80\ud83d\ude80",
+        "text_message_id": 55123,
+        "timestamp": "2022-05-02 05:13:46+00:00",
+        "id": "bfYwvAnons",
+        "created_at": "2022-05-02T10:44:01.572000+05:30",
+        "updated_at": "2022-05-02T10:44:01.588000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Safe Profit Booked \n\nAdani Port 870 Ce 32 to 34.70++\n\nProfit 3300++\ud83d\udd25\ud83d\udcb0",
+        "text_message_id": 33533,
+        "timestamp": "2022-05-02 05:18:42+00:00",
+        "id": "2nbJBXakCw",
+        "created_at": "2022-05-02T10:49:01.802000+05:30",
+        "updated_at": "2022-05-02T10:49:01.818000+05:30"
+    },
+    {
+        "channel_id": 1534549908,
+        "msg_author": "BankNifty_Nifty_ProTraders",
+        "msg_author_id": 1534549908,
+        "replied_to": 2671,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5aa67c0>",
+        "status": "PROCESSING",
+        "text_message": "RUPA IS JUST UNSTOPPABLE \ud83d\ude80\ud83d\ude80\ud83d\ude80 FIRING AT 557",
+        "text_message_id": 2674,
+        "timestamp": "2022-05-02 05:23:40+00:00",
+        "id": "rVDSNbjkpn",
+        "created_at": "2022-05-02T10:54:02.008000+05:30",
+        "updated_at": "2022-05-02T10:54:02.022000+05:30"
+    },
+    {
+        "channel_id": 1389090145,
+        "msg_author": "StockPro_Official_BankNifty",
+        "msg_author_id": 1389090145,
+        "replied_to": 55121,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5aa6970>",
+        "status": "PROCESSING",
+        "text_message": "RUPA IS JUST UNSTOPPABLE \ud83d\ude80\ud83d\ude80\ud83d\ude80 FIRING AT 557",
+        "text_message_id": 55124,
+        "timestamp": "2022-05-02 05:23:25+00:00",
+        "id": "omfZMhTZby",
+        "created_at": "2022-05-02T10:54:02.028000+05:30",
+        "updated_at": "2022-05-02T10:54:02.041000+05:30"
+    },
+    {
+        "channel_id": 1321634171,
+        "msg_author": null,
+        "msg_author_id": 1321634171,
+        "replied_to": null,
+        "status": "PROCESSING",
+        "text_message": "Safe Profit Booked \n\nAdani port 900 Ce 32 to 35.15\n\nProfit 3500++\ud83d\udd25\ud83d\udcb0",
+        "text_message_id": 33534,
+        "timestamp": "2022-05-02 05:24:15+00:00",
+        "id": "k4z5C57z85",
+        "created_at": "2022-05-02T10:55:02.032000+05:30",
+        "updated_at": "2022-05-02T10:55:02.047000+05:30"
+    },
+    {
+        "channel_id": 1563682919,
+        "msg_author": "powerofintradayy",
+        "msg_author_id": 1563682919,
+        "replied_to": 8563,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5e73cd0>",
+        "status": "PROCESSING",
+        "text_message": "3 SEATS BOOKED\n\nLAST 7 SEAT LEFT NOW",
+        "text_message_id": 8564,
+        "timestamp": "2022-05-02 05:25:08+00:00",
+        "id": "8Tl9dzBOTT",
+        "created_at": "2022-05-02T10:56:02.061000+05:30",
+        "updated_at": "2022-05-02T10:56:02.075000+05:30"
+    },
+    {
+        "channel_id": 1355795157,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "Cash  Intraday Level \n\nLALPATHLAB\ud83d\udd25 SELL BELOW 2515\n\n\ud83c\udfafTarget 1 :  2505\n\n\ud83c\udfafTarget 2 :  2490\n\n\ud83c\udfafTarget  3 : PAID\n\n\ud83d\udd25 Stoploss : PAID\n\nWait For Target \ud83c\udfaf With Proper Stoploss \ud83d\udd25",
+        "text_message_id": 21210,
+        "timestamp": "2022-05-02 05:26:11+00:00",
+        "id": "vGL4zYBS1l",
+        "created_at": "2022-05-02T10:56:36.670000+05:30",
+        "updated_at": "2022-05-02T10:56:37.479000+05:30",
+        "cleaned_text_message": "cash intraday level lalpathlab sell below 2515 target 1 2505 target 2 2490 target 3 paid stoploss paid wait for target with proper stoploss",
+        "output": [
+            {
+                "text_message": "cash intraday level lalpathlab sell below 2515 target 1 2505 target 2 2490 target 3 paid stoploss paid wait for target with proper stoploss",
+                "call_type": "SELL",
+                "strike_price": null,
+                "instrument": "LALPATHLAB",
+                "derivative": null,
+                "buy_price": [
+                    2515.0
+                ],
+                "stop_loss": [
+                    "PAID"
+                ],
+                "target": [
+                    2505.0,
+                    2490.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:LALPATHLAB"
+            }
+        ]
+    },
+    {
+        "channel_id": 1509613575,
+        "msg_author": "tradetrick_Trades",
+        "msg_author_id": 1509613575,
+        "replied_to": 2166,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5a7dee0>",
+        "status": "PROCESSING",
+        "text_message": "ALERT\u2705\u2705\u2705",
+        "text_message_id": 2167,
+        "timestamp": "2022-05-02 05:30:55+00:00",
+        "id": "wGZgEN8u5N",
+        "created_at": "2022-05-02T11:01:02.195000+05:30",
+        "updated_at": "2022-05-02T11:01:02.207000+05:30"
+    },
+    {
+        "channel_id": 1355795157,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": null,
+        "status": "SUCCESS",
+        "text_message": "OPTION Stock INTRADAY Level \n\nMAY EXPIRY\n\nDIXON 4100 PE\ud83d\udd25 BUY ABOVE 230\n\n\ud83c\udfafTarget 1 :  246\n\n\ud83c\udfafTarget2 :   275\n\n\ud83c\udfafTarget  3 :  PAID\n\n\ud83d\udd25 Stoploss : PAID\n\nWait For Target \ud83c\udfaf With Proper Stoploss \ud83d\udd25",
+        "text_message_id": 21211,
+        "timestamp": "2022-05-02 05:32:07+00:00",
+        "id": "sFCG2vuN0V",
+        "created_at": "2022-05-02T11:02:09.669000+05:30",
+        "updated_at": "2022-05-02T11:02:10.221000+05:30",
+        "cleaned_text_message": "option stock intraday level may expiry dixon 4100 pe buy above 230 target 1 246 target2 275 target 3 paid stoploss paid wait for target with proper stoploss",
+        "output": [
+            {
+                "text_message": "option stock intraday level may expiry dixon 4100 pe buy above 230 target 1 246 target2 275 target 3 paid stoploss paid wait for target with proper stoploss",
+                "call_type": "BUY",
+                "strike_price": 4100,
+                "instrument": "DIXON 4100 PE",
+                "derivative": "PUT",
+                "buy_price": [
+                    230.0
+                ],
+                "stop_loss": [
+                    "PAID"
+                ],
+                "target": [
+                    246.0,
+                    275.0
+                ],
+                "timeframe": null,
+                "stock": "NSE:DIXON"
+            }
+        ]
+    },
+    {
+        "channel_id": 1355795157,
+        "msg_author": null,
+        "msg_author_id": null,
+        "replied_to": 21210,
+        "reply_reciever": "<pymongo.cursor.Cursor object at 0x7f6ed5ab2f10>",
+        "status": "PROCESSING",
+        "text_message": "TARGET 1 DONE. PLEASE BOOK PROFIT AND ENJOY YOUR DAY.",
+        "text_message_id": 21212,
+        "timestamp": "2022-05-02 05:33:00+00:00",
+        "id": "FiOFtJnR7Q",
+        "created_at": "2022-05-02T11:03:02.211000+05:30",
+        "updated_at": "2022-05-02T11:03:02.222000+05:30"
     }
 ]
